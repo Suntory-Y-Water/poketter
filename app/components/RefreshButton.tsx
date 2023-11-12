@@ -3,27 +3,27 @@ import React from 'react';
 import { useAtom } from 'jotai';
 import { pokemonListsAtom } from '../state/atoms';
 
-type PokemonIdProps = {
-  ids: string[];
-};
-
 export const RefreshButton = ({ ids }: PokemonIdProps) => {
   const [pokemon, setPokemon] = useAtom(pokemonListsAtom);
 
   const handleClick = async () => {
-    // propsとして受け取った配列からランダムに一つのIDを選択
-    const randomPokemonId = ids[Math.floor(Math.random() * ids.length)];
+    // ids 配列からランダムに6つのIDを選択
+    const selectedIds = [];
+    for (let i = 0; i < 6; i++) {
+      selectedIds.push(ids[Math.floor(Math.random() * ids.length)]);
+    }
 
-    // 取得したIDEAを元にAPIを実行し、ポケモンの情報を取得
-    const API_URL = process.env.NEXT_PUBLIC_API_URL;
-    const res = await fetch(`${API_URL}/api/pokemon/${999}`);
+    // 選択されたIDをクエリパラメータとして連結
+    const queryParams = selectedIds.join(',');
+
+    const res = await fetch(`http://localhost:3000/api/pokemon?ids=${queryParams}`);
     const pokemonData = await res.json();
     setPokemon(pokemonData);
   };
 
   return (
     <div
-      className='bg-custom-yellow hover:bg-yellow-300 text-custom-black p-4 font-bold rounded-md cursor-pointer'
+      className='bg-custom-yellow hover:bg-yellow-300 text-custom-black py-4 px-16 font-bold rounded-md cursor-pointer text-center'
       onClick={handleClick}
     >
       ランダムにポケモンを選ぶ
