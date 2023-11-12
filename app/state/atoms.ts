@@ -1,3 +1,3 @@
 import { atom } from 'jotai';
 
-export const pokemonListsAtom = atom<string[]>([]);
+export const pokemonListsAtom = atom<PokemonData[]>([]);

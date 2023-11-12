@@ -1,3167 +1,3167 @@
 [
   {
     "id": "1",
-    "name": "フシギダネ",
-    "englishName": "bulbasaur"
+    "japaneseName": "フシギダネ",
+    "name": "bulbasaur"
   },
   {
     "id": "2",
-    "name": "フシギソウ",
-    "englishName": "ivysaur"
+    "japaneseName": "フシギソウ",
+    "name": "ivysaur"
   },
   {
     "id": "3",
-    "name": "フシギバナ",
-    "englishName": "venusaur"
+    "japaneseName": "フシギバナ",
+    "name": "venusaur"
   },
   {
     "id": "4",
-    "name": "ヒトカゲ",
-    "englishName": "charmander"
+    "japaneseName": "ヒトカゲ",
+    "name": "charmander"
   },
   {
     "id": "5",
-    "name": "リザード",
-    "englishName": "charmeleon"
+    "japaneseName": "リザード",
+    "name": "charmeleon"
   },
   {
     "id": "6",
-    "name": "リザードン",
-    "englishName": "charizard"
+    "japaneseName": "リザードン",
+    "name": "charizard"
   },
   {
     "id": "7",
-    "name": "ゼニガメ",
-    "englishName": "squirtle"
+    "japaneseName": "ゼニガメ",
+    "name": "squirtle"
   },
   {
     "id": "8",
-    "name": "カメール",
-    "englishName": "wartortle"
+    "japaneseName": "カメール",
+    "name": "wartortle"
   },
   {
     "id": "9",
-    "name": "カメックス",
-    "englishName": "blastoise"
+    "japaneseName": "カメックス",
+    "name": "blastoise"
   },
   {
     "id": "23",
-    "name": "アーボ",
-    "englishName": "ekans"
+    "japaneseName": "アーボ",
+    "name": "ekans"
   },
   {
     "id": "24",
-    "name": "アーボック",
-    "englishName": "arbok"
+    "japaneseName": "アーボック",
+    "name": "arbok"
   },
   {
     "id": "25",
-    "name": "ピカチュウ",
-    "englishName": "pikachu"
+    "japaneseName": "ピカチュウ",
+    "name": "pikachu"
   },
   {
     "id": "26",
-    "name": "ライチュウ",
-    "englishName": "raichu"
+    "japaneseName": "ライチュウ",
+    "name": "raichu"
   },
   {
     "id": "26",
-    "name": "ライチュウ(アローラ)",
-    "englishName": "raichu"
+    "japaneseName": "ライチュウ(アローラ)",
+    "name": "raichu"
   },
   {
     "id": "27",
-    "name": "サンド",
-    "englishName": "sandshrew"
+    "japaneseName": "サンド",
+    "name": "sandshrew"
   },
   {
     "id": "27",
-    "name": "サンド(アローラ)",
-    "englishName": "sandshrew"
+    "japaneseName": "サンド(アローラ)",
+    "name": "sandshrew"
   },
   {
     "id": "28",
-    "name": "サンドパン",
-    "englishName": "sandslash"
+    "japaneseName": "サンドパン",
+    "name": "sandslash"
   },
   {
     "id": "28",
-    "name": "サンドパン(アローラ)",
-    "englishName": "sandslash"
+    "japaneseName": "サンドパン(アローラ)",
+    "name": "sandslash"
   },
   {
     "id": "35",
-    "name": "ピッピ",
-    "englishName": "clefairy"
+    "japaneseName": "ピッピ",
+    "name": "clefairy"
   },
   {
     "id": "36",
-    "name": "ピクシー",
-    "englishName": "clefable"
+    "japaneseName": "ピクシー",
+    "name": "clefable"
   },
   {
     "id": "37",
-    "name": "ロコン",
-    "englishName": "vulpix"
+    "japaneseName": "ロコン",
+    "name": "vulpix"
   },
   {
     "id": "37",
-    "name": "ロコン(アローラ)",
-    "englishName": "vulpix"
+    "japaneseName": "ロコン(アローラ)",
+    "name": "vulpix"
   },
   {
     "id": "38",
-    "name": "キュウコン",
-    "englishName": "ninetales"
+    "japaneseName": "キュウコン",
+    "name": "ninetales"
   },
   {
     "id": "38",
-    "name": "キュウコン(アローラ)",
-    "englishName": "ninetales"
+    "japaneseName": "キュウコン(アローラ)",
+    "name": "ninetales"
   },
   {
     "id": "39",
-    "name": "プリン",
-    "englishName": "jigglypuff"
+    "japaneseName": "プリン",
+    "name": "jigglypuff"
   },
   {
     "id": "40",
-    "name": "プクリン",
-    "englishName": "wigglytuff"
+    "japaneseName": "プクリン",
+    "name": "wigglytuff"
   },
   {
     "id": "43",
-    "name": "ナゾノクサ",
-    "englishName": "oddish"
+    "japaneseName": "ナゾノクサ",
+    "name": "oddish"
   },
   {
     "id": "44",
-    "name": "クサイハナ",
-    "englishName": "gloom"
+    "japaneseName": "クサイハナ",
+    "name": "gloom"
   },
   {
     "id": "45",
-    "name": "ラフレシア",
-    "englishName": "vileplume"
+    "japaneseName": "ラフレシア",
+    "name": "vileplume"
   },
   {
     "id": "48",
-    "name": "コンパン",
-    "englishName": "venonat"
+    "japaneseName": "コンパン",
+    "name": "venonat"
   },
   {
     "id": "49",
-    "name": "モルフォン",
-    "englishName": "venomoth"
+    "japaneseName": "モルフォン",
+    "name": "venomoth"
   },
   {
     "id": "50",
-    "name": "ディグダ",
-    "englishName": "diglett"
+    "japaneseName": "ディグダ",
+    "name": "diglett"
   },
   {
     "id": "50",
-    "name": "ディグダ(アローラ)",
-    "englishName": "diglett"
+    "japaneseName": "ディグダ(アローラ)",
+    "name": "diglett"
   },
   {
     "id": "51",
-    "name": "ダグトリオ",
-    "englishName": "dugtrio"
+    "japaneseName": "ダグトリオ",
+    "name": "dugtrio"
   },
   {
     "id": "51",
-    "name": "ダグトリオ(アローラ)",
-    "englishName": "dugtrio"
+    "japaneseName": "ダグトリオ(アローラ)",
+    "name": "dugtrio"
   },
   {
     "id": "52",
-    "name": "ニャース",
-    "englishName": "meowth"
+    "japaneseName": "ニャース",
+    "name": "meowth"
   },
   {
     "id": "52",
-    "name": "ニャース(アローラ)",
-    "englishName": "meowth"
+    "japaneseName": "ニャース(アローラ)",
+    "name": "meowth"
   },
   {
     "id": "52",
-    "name": "ニャース(ガラル)",
-    "englishName": "meowth"
+    "japaneseName": "ニャース(ガラル)",
+    "name": "meowth"
   },
   {
     "id": "53",
-    "name": "ペルシアン",
-    "englishName": "persian"
+    "japaneseName": "ペルシアン",
+    "name": "persian"
   },
   {
     "id": "53",
-    "name": "ペルシアン(アローラ)",
-    "englishName": "persian"
+    "japaneseName": "ペルシアン(アローラ)",
+    "name": "persian"
   },
   {
     "id": "54",
-    "name": "コダック",
-    "englishName": "psyduck"
+    "japaneseName": "コダック",
+    "name": "psyduck"
   },
   {
     "id": "55",
-    "name": "ゴルダック",
-    "englishName": "golduck"
+    "japaneseName": "ゴルダック",
+    "name": "golduck"
   },
   {
     "id": "56",
-    "name": "マンキー",
-    "englishName": "mankey"
+    "japaneseName": "マンキー",
+    "name": "mankey"
   },
   {
     "id": "57",
-    "name": "オコリザル",
-    "englishName": "primeape"
+    "japaneseName": "オコリザル",
+    "name": "primeape"
   },
   {
     "id": "58",
-    "name": "ガーディ",
-    "englishName": "growlithe"
+    "japaneseName": "ガーディ",
+    "name": "growlithe"
   },
   {
     "id": "58",
-    "name": "ガーディ(ヒスイ)",
-    "englishName": "growlithe"
+    "japaneseName": "ガーディ(ヒスイ)",
+    "name": "growlithe"
   },
   {
     "id": "59",
-    "name": "ウインディ",
-    "englishName": "arcanine"
+    "japaneseName": "ウインディ",
+    "name": "arcanine"
   },
   {
     "id": "59",
-    "name": "ウインディ(ヒスイ)",
-    "englishName": "arcanine"
+    "japaneseName": "ウインディ(ヒスイ)",
+    "name": "arcanine"
   },
   {
     "id": "60",
-    "name": "ニョロモ",
-    "englishName": "poliwag"
+    "japaneseName": "ニョロモ",
+    "name": "poliwag"
   },
   {
     "id": "61",
-    "name": "ニョロゾ",
-    "englishName": "poliwhirl"
+    "japaneseName": "ニョロゾ",
+    "name": "poliwhirl"
   },
   {
     "id": "62",
-    "name": "ニョロボン",
-    "englishName": "poliwrath"
+    "japaneseName": "ニョロボン",
+    "name": "poliwrath"
   },
   {
     "id": "69",
-    "name": "マダツボミ",
-    "englishName": "bellsprout"
+    "japaneseName": "マダツボミ",
+    "name": "bellsprout"
   },
   {
     "id": "70",
-    "name": "ウツドン",
-    "englishName": "weepinbell"
+    "japaneseName": "ウツドン",
+    "name": "weepinbell"
   },
   {
     "id": "71",
-    "name": "ウツボット",
-    "englishName": "victreebel"
+    "japaneseName": "ウツボット",
+    "name": "victreebel"
   },
   {
     "id": "74",
-    "name": "イシツブテ",
-    "englishName": "geodude"
+    "japaneseName": "イシツブテ",
+    "name": "geodude"
   },
   {
     "id": "74",
-    "name": "イシツブテ(アローラ)",
-    "englishName": "geodude"
+    "japaneseName": "イシツブテ(アローラ)",
+    "name": "geodude"
   },
   {
     "id": "75",
-    "name": "ゴローン",
-    "englishName": "graveler"
+    "japaneseName": "ゴローン",
+    "name": "graveler"
   },
   {
     "id": "75",
-    "name": "ゴローン(アローラ)",
-    "englishName": "graveler"
+    "japaneseName": "ゴローン(アローラ)",
+    "name": "graveler"
   },
   {
     "id": "76",
-    "name": "ゴローニャ",
-    "englishName": "golem"
+    "japaneseName": "ゴローニャ",
+    "name": "golem"
   },
   {
     "id": "76",
-    "name": "ゴローニャ(アローラ)",
-    "englishName": "golem"
+    "japaneseName": "ゴローニャ(アローラ)",
+    "name": "golem"
   },
   {
     "id": "79",
-    "name": "ヤドン",
-    "englishName": "slowpoke"
+    "japaneseName": "ヤドン",
+    "name": "slowpoke"
   },
   {
     "id": "79",
-    "name": "ヤドン(ガラル)",
-    "englishName": "slowpoke"
+    "japaneseName": "ヤドン(ガラル)",
+    "name": "slowpoke"
   },
   {
     "id": "80",
-    "name": "ヤドラン",
-    "englishName": "slowbro"
+    "japaneseName": "ヤドラン",
+    "name": "slowbro"
   },
   {
     "id": "80",
-    "name": "ヤドラン(ガラル)",
-    "englishName": "slowbro"
+    "japaneseName": "ヤドラン(ガラル)",
+    "name": "slowbro"
   },
   {
     "id": "81",
-    "name": "コイル",
-    "englishName": "magnemite"
+    "japaneseName": "コイル",
+    "name": "magnemite"
   },
   {
     "id": "82",
-    "name": "レアコイル",
-    "englishName": "magneton"
+    "japaneseName": "レアコイル",
+    "name": "magneton"
   },
   {
     "id": "84",
-    "name": "ドードー",
-    "englishName": "doduo"
+    "japaneseName": "ドードー",
+    "name": "doduo"
   },
   {
     "id": "85",
-    "name": "ドードリオ",
-    "englishName": "dodrio"
+    "japaneseName": "ドードリオ",
+    "name": "dodrio"
   },
   {
     "id": "86",
-    "name": "パウワウ",
-    "englishName": "seel"
+    "japaneseName": "パウワウ",
+    "name": "seel"
   },
   {
     "id": "87",
-    "name": "ジュゴン",
-    "englishName": "dewgong"
+    "japaneseName": "ジュゴン",
+    "name": "dewgong"
   },
   {
     "id": "88",
-    "name": "ベトベター",
-    "englishName": "grimer"
+    "japaneseName": "ベトベター",
+    "name": "grimer"
   },
   {
     "id": "88",
-    "name": "ベトベター(アローラ)",
-    "englishName": "grimer"
+    "japaneseName": "ベトベター(アローラ)",
+    "name": "grimer"
   },
   {
     "id": "89",
-    "name": "ベトベトン",
-    "englishName": "muk"
+    "japaneseName": "ベトベトン",
+    "name": "muk"
   },
   {
     "id": "89",
-    "name": "ベトベトン(アローラ)",
-    "englishName": "muk"
+    "japaneseName": "ベトベトン(アローラ)",
+    "name": "muk"
   },
   {
     "id": "90",
-    "name": "シェルダー",
-    "englishName": "shellder"
+    "japaneseName": "シェルダー",
+    "name": "shellder"
   },
   {
     "id": "91",
-    "name": "パルシェン",
-    "englishName": "cloyster"
+    "japaneseName": "パルシェン",
+    "name": "cloyster"
   },
   {
     "id": "92",
-    "name": "ゴース",
-    "englishName": "gastly"
+    "japaneseName": "ゴース",
+    "name": "gastly"
   },
   {
     "id": "93",
-    "name": "ゴースト",
-    "englishName": "haunter"
+    "japaneseName": "ゴースト",
+    "name": "haunter"
   },
   {
     "id": "94",
-    "name": "ゲンガー",
-    "englishName": "gengar"
+    "japaneseName": "ゲンガー",
+    "name": "gengar"
   },
   {
     "id": "96",
-    "name": "スリープ",
-    "englishName": "drowzee"
+    "japaneseName": "スリープ",
+    "name": "drowzee"
   },
   {
     "id": "97",
-    "name": "スリーパー",
-    "englishName": "hypno"
+    "japaneseName": "スリーパー",
+    "name": "hypno"
   },
   {
     "id": "100",
-    "name": "ビリリダマ",
-    "englishName": "voltorb"
+    "japaneseName": "ビリリダマ",
+    "name": "voltorb"
   },
   {
     "id": "100",
-    "name": "ビリリダマ(ヒスイ)",
-    "englishName": "voltorb"
+    "japaneseName": "ビリリダマ(ヒスイ)",
+    "name": "voltorb"
   },
   {
     "id": "101",
-    "name": "マルマイン",
-    "englishName": "electrode"
+    "japaneseName": "マルマイン",
+    "name": "electrode"
   },
   {
     "id": "101",
-    "name": "マルマイン(ヒスイ)",
-    "englishName": "electrode"
+    "japaneseName": "マルマイン(ヒスイ)",
+    "name": "electrode"
   },
   {
     "id": "102",
-    "name": "タマタマ",
-    "englishName": "exeggcute"
+    "japaneseName": "タマタマ",
+    "name": "exeggcute"
   },
   {
     "id": "103",
-    "name": "ナッシー(アローラ)",
-    "englishName": "exeggutor"
+    "japaneseName": "ナッシー(アローラ)",
+    "name": "exeggutor"
   },
   {
     "id": "106",
-    "name": "サワムラー",
-    "englishName": "hitmonlee"
+    "japaneseName": "サワムラー",
+    "name": "hitmonlee"
   },
   {
     "id": "107",
-    "name": "エビワラー",
-    "englishName": "hitmonchan"
+    "japaneseName": "エビワラー",
+    "name": "hitmonchan"
   },
   {
     "id": "109",
-    "name": "ドガース",
-    "englishName": "koffing"
+    "japaneseName": "ドガース",
+    "name": "koffing"
   },
   {
     "id": "110",
-    "name": "マタドガス",
-    "englishName": "weezing"
+    "japaneseName": "マタドガス",
+    "name": "weezing"
   },
   {
     "id": "110",
-    "name": "マタドガス(ガラル)",
-    "englishName": "weezing"
+    "japaneseName": "マタドガス(ガラル)",
+    "name": "weezing"
   },
   {
     "id": "111",
-    "name": "サイホーン",
-    "englishName": "rhyhorn"
+    "japaneseName": "サイホーン",
+    "name": "rhyhorn"
   },
   {
     "id": "112",
-    "name": "サイドン",
-    "englishName": "rhydon"
+    "japaneseName": "サイドン",
+    "name": "rhydon"
   },
   {
     "id": "113",
-    "name": "ラッキー",
-    "englishName": "chansey"
+    "japaneseName": "ラッキー",
+    "name": "chansey"
   },
   {
     "id": "123",
-    "name": "ストライク",
-    "englishName": "scyther"
+    "japaneseName": "ストライク",
+    "name": "scyther"
   },
   {
     "id": "126",
-    "name": "ブーバー",
-    "englishName": "magmar"
+    "japaneseName": "ブーバー",
+    "name": "magmar"
   },
   {
     "id": "128",
-    "name": "ケンタロス",
-    "englishName": "tauros"
+    "japaneseName": "ケンタロス",
+    "name": "tauros"
   },
   {
     "id": "129",
-    "name": "コイキング",
-    "englishName": "magikarp"
+    "japaneseName": "コイキング",
+    "name": "magikarp"
   },
   {
     "id": "130",
-    "name": "ギャラドス",
-    "englishName": "gyarados"
+    "japaneseName": "ギャラドス",
+    "name": "gyarados"
   },
   {
     "id": "131",
-    "name": "ラプラス",
-    "englishName": "lapras"
+    "japaneseName": "ラプラス",
+    "name": "lapras"
   },
   {
     "id": "132",
-    "name": "メタモン",
-    "englishName": "ditto"
+    "japaneseName": "メタモン",
+    "name": "ditto"
   },
   {
     "id": "133",
-    "name": "イーブイ",
-    "englishName": "eevee"
+    "japaneseName": "イーブイ",
+    "name": "eevee"
   },
   {
     "id": "134",
-    "name": "シャワーズ",
-    "englishName": "vaporeon"
+    "japaneseName": "シャワーズ",
+    "name": "vaporeon"
   },
   {
     "id": "135",
-    "name": "サンダース",
-    "englishName": "jolteon"
+    "japaneseName": "サンダース",
+    "name": "jolteon"
   },
   {
     "id": "136",
-    "name": "ブースター",
-    "englishName": "flareon"
+    "japaneseName": "ブースター",
+    "name": "flareon"
   },
   {
     "id": "143",
-    "name": "カビゴン",
-    "englishName": "snorlax"
+    "japaneseName": "カビゴン",
+    "name": "snorlax"
   },
   {
     "id": "144",
-    "name": "フリーザー",
-    "englishName": "articuno"
+    "japaneseName": "フリーザー",
+    "name": "articuno"
   },
   {
     "id": "144",
-    "name": "フリーザー(ガラル)",
-    "englishName": "articuno"
+    "japaneseName": "フリーザー(ガラル)",
+    "name": "articuno"
   },
   {
     "id": "145",
-    "name": "サンダー",
-    "englishName": "zapdos"
+    "japaneseName": "サンダー",
+    "name": "zapdos"
   },
   {
     "id": "145",
-    "name": "サンダー(ガラル)",
-    "englishName": "zapdos"
+    "japaneseName": "サンダー(ガラル)",
+    "name": "zapdos"
   },
   {
     "id": "146",
-    "name": "ファイヤー",
-    "englishName": "moltres"
+    "japaneseName": "ファイヤー",
+    "name": "moltres"
   },
   {
     "id": "146",
-    "name": "ファイヤー(ガラル)",
-    "englishName": "moltres"
+    "japaneseName": "ファイヤー(ガラル)",
+    "name": "moltres"
   },
   {
     "id": "147",
-    "name": "ミニリュウ",
-    "englishName": "dratini"
+    "japaneseName": "ミニリュウ",
+    "name": "dratini"
   },
   {
     "id": "148",
-    "name": "ハクリュー",
-    "englishName": "dragonair"
+    "japaneseName": "ハクリュー",
+    "name": "dragonair"
   },
   {
     "id": "149",
-    "name": "カイリュー",
-    "englishName": "dragonite"
+    "japaneseName": "カイリュー",
+    "name": "dragonite"
   },
   {
     "id": "150",
-    "name": "ミュウツー",
-    "englishName": "mewtwo"
+    "japaneseName": "ミュウツー",
+    "name": "mewtwo"
   },
   {
     "id": "151",
-    "name": "ミュウ",
-    "englishName": "mew"
+    "japaneseName": "ミュウ",
+    "name": "mew"
   },
   {
     "id": "152",
-    "name": "チコリータ",
-    "englishName": "chikorita"
+    "japaneseName": "チコリータ",
+    "name": "chikorita"
   },
   {
     "id": "153",
-    "name": "ベイリーフ",
-    "englishName": "bayleef"
+    "japaneseName": "ベイリーフ",
+    "name": "bayleef"
   },
   {
     "id": "154",
-    "name": "メガニウム",
-    "englishName": "meganium"
+    "japaneseName": "メガニウム",
+    "name": "meganium"
   },
   {
     "id": "155",
-    "name": "ヒノアラシ",
-    "englishName": "cyndaquil"
+    "japaneseName": "ヒノアラシ",
+    "name": "cyndaquil"
   },
   {
     "id": "156",
-    "name": "マグマラシ",
-    "englishName": "quilava"
+    "japaneseName": "マグマラシ",
+    "name": "quilava"
   },
   {
     "id": "157",
-    "name": "バクフーン",
-    "englishName": "typhlosion"
+    "japaneseName": "バクフーン",
+    "name": "typhlosion"
   },
   {
     "id": "157",
-    "name": "バクフーン(ヒスイ)",
-    "englishName": "typhlosion"
+    "japaneseName": "バクフーン(ヒスイ)",
+    "name": "typhlosion"
   },
   {
     "id": "158",
-    "name": "ワニノコ",
-    "englishName": "totodile"
+    "japaneseName": "ワニノコ",
+    "name": "totodile"
   },
   {
     "id": "159",
-    "name": "アリゲイツ",
-    "englishName": "croconaw"
+    "japaneseName": "アリゲイツ",
+    "name": "croconaw"
   },
   {
     "id": "160",
-    "name": "オーダイル",
-    "englishName": "feraligatr"
+    "japaneseName": "オーダイル",
+    "name": "feraligatr"
   },
   {
     "id": "161",
-    "name": "オタチ",
-    "englishName": "sentret"
+    "japaneseName": "オタチ",
+    "name": "sentret"
   },
   {
     "id": "162",
-    "name": "オオタチ",
-    "englishName": "furret"
+    "japaneseName": "オオタチ",
+    "name": "furret"
   },
   {
     "id": "163",
-    "name": "ホーホー",
-    "englishName": "hoothoot"
+    "japaneseName": "ホーホー",
+    "name": "hoothoot"
   },
   {
     "id": "164",
-    "name": "ヨルノズク",
-    "englishName": "noctowl"
+    "japaneseName": "ヨルノズク",
+    "name": "noctowl"
   },
   {
     "id": "167",
-    "name": "イトマル",
-    "englishName": "spinarak"
+    "japaneseName": "イトマル",
+    "name": "spinarak"
   },
   {
     "id": "168",
-    "name": "アリアドス",
-    "englishName": "ariados"
+    "japaneseName": "アリアドス",
+    "name": "ariados"
   },
   {
     "id": "172",
-    "name": "ピチュー",
-    "englishName": "pichu"
+    "japaneseName": "ピチュー",
+    "name": "pichu"
   },
   {
     "id": "173",
-    "name": "ピィ",
-    "englishName": "cleffa"
+    "japaneseName": "ピィ",
+    "name": "cleffa"
   },
   {
     "id": "174",
-    "name": "ププリン",
-    "englishName": "igglybuff"
+    "japaneseName": "ププリン",
+    "name": "igglybuff"
   },
   {
     "id": "179",
-    "name": "メリープ",
-    "englishName": "mareep"
+    "japaneseName": "メリープ",
+    "name": "mareep"
   },
   {
     "id": "180",
-    "name": "モココ",
-    "englishName": "flaaffy"
+    "japaneseName": "モココ",
+    "name": "flaaffy"
   },
   {
     "id": "181",
-    "name": "デンリュウ",
-    "englishName": "ampharos"
+    "japaneseName": "デンリュウ",
+    "name": "ampharos"
   },
   {
     "id": "182",
-    "name": "キレイハナ",
-    "englishName": "bellossom"
+    "japaneseName": "キレイハナ",
+    "name": "bellossom"
   },
   {
     "id": "183",
-    "name": "マリル",
-    "englishName": "marill"
+    "japaneseName": "マリル",
+    "name": "marill"
   },
   {
     "id": "184",
-    "name": "マリルリ",
-    "englishName": "azumarill"
+    "japaneseName": "マリルリ",
+    "name": "azumarill"
   },
   {
     "id": "185",
-    "name": "ウソッキー",
-    "englishName": "sudowoodo"
+    "japaneseName": "ウソッキー",
+    "name": "sudowoodo"
   },
   {
     "id": "186",
-    "name": "ニョロトノ",
-    "englishName": "politoed"
+    "japaneseName": "ニョロトノ",
+    "name": "politoed"
   },
   {
     "id": "187",
-    "name": "ハネッコ",
-    "englishName": "hoppip"
+    "japaneseName": "ハネッコ",
+    "name": "hoppip"
   },
   {
     "id": "188",
-    "name": "ポポッコ",
-    "englishName": "skiploom"
+    "japaneseName": "ポポッコ",
+    "name": "skiploom"
   },
   {
     "id": "189",
-    "name": "ワタッコ",
-    "englishName": "jumpluff"
+    "japaneseName": "ワタッコ",
+    "name": "jumpluff"
   },
   {
     "id": "190",
-    "name": "エイパム",
-    "englishName": "aipom"
+    "japaneseName": "エイパム",
+    "name": "aipom"
   },
   {
     "id": "191",
-    "name": "ヒマナッツ",
-    "englishName": "sunkern"
+    "japaneseName": "ヒマナッツ",
+    "name": "sunkern"
   },
   {
     "id": "192",
-    "name": "キマワリ",
-    "englishName": "sunflora"
+    "japaneseName": "キマワリ",
+    "name": "sunflora"
   },
   {
     "id": "193",
-    "name": "ヤンヤンマ",
-    "englishName": "yanma"
+    "japaneseName": "ヤンヤンマ",
+    "name": "yanma"
   },
   {
     "id": "194",
-    "name": "ウパー",
-    "englishName": "wooper"
+    "japaneseName": "ウパー",
+    "name": "wooper"
   },
   {
     "id": "195",
-    "name": "ヌオー",
-    "englishName": "quagsire"
+    "japaneseName": "ヌオー",
+    "name": "quagsire"
   },
   {
     "id": "196",
-    "name": "エーフィ",
-    "englishName": "espeon"
+    "japaneseName": "エーフィ",
+    "name": "espeon"
   },
   {
     "id": "197",
-    "name": "ブラッキー",
-    "englishName": "umbreon"
+    "japaneseName": "ブラッキー",
+    "name": "umbreon"
   },
   {
     "id": "198",
-    "name": "ヤミカラス",
-    "englishName": "murkrow"
+    "japaneseName": "ヤミカラス",
+    "name": "murkrow"
   },
   {
     "id": "199",
-    "name": "ヤドキング",
-    "englishName": "slowking"
+    "japaneseName": "ヤドキング",
+    "name": "slowking"
   },
   {
     "id": "199",
-    "name": "ヤドキング(ガラル)",
-    "englishName": "slowking"
+    "japaneseName": "ヤドキング(ガラル)",
+    "name": "slowking"
   },
   {
     "id": "200",
-    "name": "ムウマ",
-    "englishName": "misdreavus"
+    "japaneseName": "ムウマ",
+    "name": "misdreavus"
   },
   {
     "id": "203",
-    "name": "キリンリキ",
-    "englishName": "girafarig"
+    "japaneseName": "キリンリキ",
+    "name": "girafarig"
   },
   {
     "id": "204",
-    "name": "クヌギダマ",
-    "englishName": "pineco"
+    "japaneseName": "クヌギダマ",
+    "name": "pineco"
   },
   {
     "id": "205",
-    "name": "フォレトス",
-    "englishName": "forretress"
+    "japaneseName": "フォレトス",
+    "name": "forretress"
   },
   {
     "id": "206",
-    "name": "ノコッチ",
-    "englishName": "dunsparce"
+    "japaneseName": "ノコッチ",
+    "name": "dunsparce"
   },
   {
     "id": "207",
-    "name": "グライガー",
-    "englishName": "gligar"
+    "japaneseName": "グライガー",
+    "name": "gligar"
   },
   {
     "id": "211",
-    "name": "ハリーセン",
-    "englishName": "qwilfish"
+    "japaneseName": "ハリーセン",
+    "name": "qwilfish"
   },
   {
     "id": "211",
-    "name": "ハリーセン(ヒスイ)",
-    "englishName": "qwilfish"
+    "japaneseName": "ハリーセン(ヒスイ)",
+    "name": "qwilfish"
   },
   {
     "id": "212",
-    "name": "ハッサム",
-    "englishName": "scizor"
+    "japaneseName": "ハッサム",
+    "name": "scizor"
   },
   {
     "id": "214",
-    "name": "ヘラクロス",
-    "englishName": "heracross"
+    "japaneseName": "ヘラクロス",
+    "name": "heracross"
   },
   {
     "id": "215",
-    "name": "ニューラ",
-    "englishName": "sneasel"
+    "japaneseName": "ニューラ",
+    "name": "sneasel"
   },
   {
     "id": "215",
-    "name": "ニューラ(ヒスイ)",
-    "englishName": "sneasel"
+    "japaneseName": "ニューラ(ヒスイ)",
+    "name": "sneasel"
   },
   {
     "id": "216",
-    "name": "ヒメグマ",
-    "englishName": "teddiursa"
+    "japaneseName": "ヒメグマ",
+    "name": "teddiursa"
   },
   {
     "id": "217",
-    "name": "リングマ",
-    "englishName": "ursaring"
+    "japaneseName": "リングマ",
+    "name": "ursaring"
   },
   {
     "id": "218",
-    "name": "マグマッグ",
-    "englishName": "slugma"
+    "japaneseName": "マグマッグ",
+    "name": "slugma"
   },
   {
     "id": "219",
-    "name": "マグカルゴ",
-    "englishName": "magcargo"
+    "japaneseName": "マグカルゴ",
+    "name": "magcargo"
   },
   {
     "id": "220",
-    "name": "ウリムー",
-    "englishName": "swinub"
+    "japaneseName": "ウリムー",
+    "name": "swinub"
   },
   {
     "id": "221",
-    "name": "イノムー",
-    "englishName": "piloswine"
+    "japaneseName": "イノムー",
+    "name": "piloswine"
   },
   {
     "id": "225",
-    "name": "デリバード",
-    "englishName": "delibird"
+    "japaneseName": "デリバード",
+    "name": "delibird"
   },
   {
     "id": "227",
-    "name": "エアームド",
-    "englishName": "skarmory"
+    "japaneseName": "エアームド",
+    "name": "skarmory"
   },
   {
     "id": "228",
-    "name": "デルビル",
-    "englishName": "houndour"
+    "japaneseName": "デルビル",
+    "name": "houndour"
   },
   {
     "id": "229",
-    "name": "ヘルガー",
-    "englishName": "houndoom"
+    "japaneseName": "ヘルガー",
+    "name": "houndoom"
   },
   {
     "id": "231",
-    "name": "ゴマゾウ",
-    "englishName": "phanpy"
+    "japaneseName": "ゴマゾウ",
+    "name": "phanpy"
   },
   {
     "id": "232",
-    "name": "ドンファン",
-    "englishName": "donphan"
+    "japaneseName": "ドンファン",
+    "name": "donphan"
   },
   {
     "id": "234",
-    "name": "オドシシ",
-    "englishName": "stantler"
+    "japaneseName": "オドシシ",
+    "name": "stantler"
   },
   {
     "id": "235",
-    "name": "ドーブル",
-    "englishName": "smeargle"
+    "japaneseName": "ドーブル",
+    "name": "smeargle"
   },
   {
     "id": "236",
-    "name": "バルキー",
-    "englishName": "tyrogue"
+    "japaneseName": "バルキー",
+    "name": "tyrogue"
   },
   {
     "id": "237",
-    "name": "カポエラー",
-    "englishName": "hitmontop"
+    "japaneseName": "カポエラー",
+    "name": "hitmontop"
   },
   {
     "id": "240",
-    "name": "ブビィ",
-    "englishName": "magby"
+    "japaneseName": "ブビィ",
+    "name": "magby"
   },
   {
     "id": "242",
-    "name": "ハピナス",
-    "englishName": "blissey"
+    "japaneseName": "ハピナス",
+    "name": "blissey"
   },
   {
     "id": "246",
-    "name": "ヨーギラス",
-    "englishName": "larvitar"
+    "japaneseName": "ヨーギラス",
+    "name": "larvitar"
   },
   {
     "id": "247",
-    "name": "サナギラス",
-    "englishName": "pupitar"
+    "japaneseName": "サナギラス",
+    "name": "pupitar"
   },
   {
     "id": "248",
-    "name": "バンギラス",
-    "englishName": "tyranitar"
+    "japaneseName": "バンギラス",
+    "name": "tyranitar"
   },
   {
     "id": "252",
-    "name": "キモリ",
-    "englishName": "treecko"
+    "japaneseName": "キモリ",
+    "name": "treecko"
   },
   {
     "id": "253",
-    "name": "ジュプトル",
-    "englishName": "grovyle"
+    "japaneseName": "ジュプトル",
+    "name": "grovyle"
   },
   {
     "id": "254",
-    "name": "ジュカイン",
-    "englishName": "sceptile"
+    "japaneseName": "ジュカイン",
+    "name": "sceptile"
   },
   {
     "id": "255",
-    "name": "アチャモ",
-    "englishName": "torchic"
+    "japaneseName": "アチャモ",
+    "name": "torchic"
   },
   {
     "id": "256",
-    "name": "ワカシャモ",
-    "englishName": "combusken"
+    "japaneseName": "ワカシャモ",
+    "name": "combusken"
   },
   {
     "id": "257",
-    "name": "バシャーモ",
-    "englishName": "blaziken"
+    "japaneseName": "バシャーモ",
+    "name": "blaziken"
   },
   {
     "id": "258",
-    "name": "ミズゴロウ",
-    "englishName": "mudkip"
+    "japaneseName": "ミズゴロウ",
+    "name": "mudkip"
   },
   {
     "id": "259",
-    "name": "ヌマクロー",
-    "englishName": "marshtomp"
+    "japaneseName": "ヌマクロー",
+    "name": "marshtomp"
   },
   {
     "id": "260",
-    "name": "ラグラージ",
-    "englishName": "swampert"
+    "japaneseName": "ラグラージ",
+    "name": "swampert"
   },
   {
     "id": "261",
-    "name": "ポチエナ",
-    "englishName": "poochyena"
+    "japaneseName": "ポチエナ",
+    "name": "poochyena"
   },
   {
     "id": "262",
-    "name": "グラエナ",
-    "englishName": "mightyena"
+    "japaneseName": "グラエナ",
+    "name": "mightyena"
   },
   {
     "id": "270",
-    "name": "ハスボー",
-    "englishName": "lotad"
+    "japaneseName": "ハスボー",
+    "name": "lotad"
   },
   {
     "id": "271",
-    "name": "ハスブレロ",
-    "englishName": "lombre"
+    "japaneseName": "ハスブレロ",
+    "name": "lombre"
   },
   {
     "id": "272",
-    "name": "ルンパッパ",
-    "englishName": "ludicolo"
+    "japaneseName": "ルンパッパ",
+    "name": "ludicolo"
   },
   {
     "id": "273",
-    "name": "タネボー",
-    "englishName": "seedot"
+    "japaneseName": "タネボー",
+    "name": "seedot"
   },
   {
     "id": "274",
-    "name": "コノハナ",
-    "englishName": "nuzleaf"
+    "japaneseName": "コノハナ",
+    "name": "nuzleaf"
   },
   {
     "id": "275",
-    "name": "ダーテング",
-    "englishName": "shiftry"
+    "japaneseName": "ダーテング",
+    "name": "shiftry"
   },
   {
     "id": "278",
-    "name": "キャモメ",
-    "englishName": "wingull"
+    "japaneseName": "キャモメ",
+    "name": "wingull"
   },
   {
     "id": "279",
-    "name": "ペリッパー",
-    "englishName": "pelipper"
+    "japaneseName": "ペリッパー",
+    "name": "pelipper"
   },
   {
     "id": "280",
-    "name": "ラルトス",
-    "englishName": "ralts"
+    "japaneseName": "ラルトス",
+    "name": "ralts"
   },
   {
     "id": "281",
-    "name": "キルリア",
-    "englishName": "kirlia"
+    "japaneseName": "キルリア",
+    "name": "kirlia"
   },
   {
     "id": "282",
-    "name": "サーナイト",
-    "englishName": "gardevoir"
+    "japaneseName": "サーナイト",
+    "name": "gardevoir"
   },
   {
     "id": "283",
-    "name": "アメタマ",
-    "englishName": "surskit"
+    "japaneseName": "アメタマ",
+    "name": "surskit"
   },
   {
     "id": "284",
-    "name": "アメモース",
-    "englishName": "masquerain"
+    "japaneseName": "アメモース",
+    "name": "masquerain"
   },
   {
     "id": "285",
-    "name": "キノココ",
-    "englishName": "shroomish"
+    "japaneseName": "キノココ",
+    "name": "shroomish"
   },
   {
     "id": "286",
-    "name": "キノガッサ",
-    "englishName": "breloom"
+    "japaneseName": "キノガッサ",
+    "name": "breloom"
   },
   {
     "id": "287",
-    "name": "ナマケロ",
-    "englishName": "slakoth"
+    "japaneseName": "ナマケロ",
+    "name": "slakoth"
   },
   {
     "id": "288",
-    "name": "ヤルキモノ",
-    "englishName": "vigoroth"
+    "japaneseName": "ヤルキモノ",
+    "name": "vigoroth"
   },
   {
     "id": "289",
-    "name": "ケッキング",
-    "englishName": "slaking"
+    "japaneseName": "ケッキング",
+    "name": "slaking"
   },
   {
     "id": "296",
-    "name": "マクノシタ",
-    "englishName": "makuhita"
+    "japaneseName": "マクノシタ",
+    "name": "makuhita"
   },
   {
     "id": "297",
-    "name": "ハリテヤマ",
-    "englishName": "hariyama"
+    "japaneseName": "ハリテヤマ",
+    "name": "hariyama"
   },
   {
     "id": "298",
-    "name": "ルリリ",
-    "englishName": "azurill"
+    "japaneseName": "ルリリ",
+    "name": "azurill"
   },
   {
     "id": "299",
-    "name": "ノズパス",
-    "englishName": "nosepass"
+    "japaneseName": "ノズパス",
+    "name": "nosepass"
   },
   {
     "id": "302",
-    "name": "ヤミラミ",
-    "englishName": "sableye"
+    "japaneseName": "ヤミラミ",
+    "name": "sableye"
   },
   {
     "id": "307",
-    "name": "アサナン",
-    "englishName": "meditite"
+    "japaneseName": "アサナン",
+    "name": "meditite"
   },
   {
     "id": "308",
-    "name": "チャーレム",
-    "englishName": "medicham"
+    "japaneseName": "チャーレム",
+    "name": "medicham"
   },
   {
     "id": "313",
-    "name": "バルビート",
-    "englishName": "volbeat"
+    "japaneseName": "バルビート",
+    "name": "volbeat"
   },
   {
     "id": "314",
-    "name": "イルミーゼ",
-    "englishName": "illumise"
+    "japaneseName": "イルミーゼ",
+    "name": "illumise"
   },
   {
     "id": "316",
-    "name": "ゴクリン",
-    "englishName": "gulpin"
+    "japaneseName": "ゴクリン",
+    "name": "gulpin"
   },
   {
     "id": "317",
-    "name": "マルノーム",
-    "englishName": "swalot"
+    "japaneseName": "マルノーム",
+    "name": "swalot"
   },
   {
     "id": "322",
-    "name": "ドンメル",
-    "englishName": "numel"
+    "japaneseName": "ドンメル",
+    "name": "numel"
   },
   {
     "id": "323",
-    "name": "バクーダ",
-    "englishName": "camerupt"
+    "japaneseName": "バクーダ",
+    "name": "camerupt"
   },
   {
     "id": "324",
-    "name": "コータス",
-    "englishName": "torkoal"
+    "japaneseName": "コータス",
+    "name": "torkoal"
   },
   {
     "id": "325",
-    "name": "バネブー",
-    "englishName": "spoink"
+    "japaneseName": "バネブー",
+    "name": "spoink"
   },
   {
     "id": "326",
-    "name": "ブーピッグ",
-    "englishName": "grumpig"
+    "japaneseName": "ブーピッグ",
+    "name": "grumpig"
   },
   {
     "id": "328",
-    "name": "ナックラー",
-    "englishName": "trapinch"
+    "japaneseName": "ナックラー",
+    "name": "trapinch"
   },
   {
     "id": "329",
-    "name": "ビブラーバ",
-    "englishName": "vibrava"
+    "japaneseName": "ビブラーバ",
+    "name": "vibrava"
   },
   {
     "id": "330",
-    "name": "フライゴン",
-    "englishName": "flygon"
+    "japaneseName": "フライゴン",
+    "name": "flygon"
   },
   {
     "id": "331",
-    "name": "サボネア",
-    "englishName": "cacnea"
+    "japaneseName": "サボネア",
+    "name": "cacnea"
   },
   {
     "id": "332",
-    "name": "ノクタス",
-    "englishName": "cacturne"
+    "japaneseName": "ノクタス",
+    "name": "cacturne"
   },
   {
     "id": "333",
-    "name": "チルット",
-    "englishName": "swablu"
+    "japaneseName": "チルット",
+    "name": "swablu"
   },
   {
     "id": "334",
-    "name": "チルタリス",
-    "englishName": "altaria"
+    "japaneseName": "チルタリス",
+    "name": "altaria"
   },
   {
     "id": "335",
-    "name": "ザングース",
-    "englishName": "zangoose"
+    "japaneseName": "ザングース",
+    "name": "zangoose"
   },
   {
     "id": "336",
-    "name": "ハブネーク",
-    "englishName": "seviper"
+    "japaneseName": "ハブネーク",
+    "name": "seviper"
   },
   {
     "id": "339",
-    "name": "ドジョッチ",
-    "englishName": "barboach"
+    "japaneseName": "ドジョッチ",
+    "name": "barboach"
   },
   {
     "id": "340",
-    "name": "ナマズン",
-    "englishName": "whiscash"
+    "japaneseName": "ナマズン",
+    "name": "whiscash"
   },
   {
     "id": "341",
-    "name": "ヘイガニ",
-    "englishName": "corphish"
+    "japaneseName": "ヘイガニ",
+    "name": "corphish"
   },
   {
     "id": "342",
-    "name": "シザリガー",
-    "englishName": "crawdaunt"
+    "japaneseName": "シザリガー",
+    "name": "crawdaunt"
   },
   {
     "id": "349",
-    "name": "ヒンバス",
-    "englishName": "feebas"
+    "japaneseName": "ヒンバス",
+    "name": "feebas"
   },
   {
     "id": "350",
-    "name": "ミロカロス",
-    "englishName": "milotic"
+    "japaneseName": "ミロカロス",
+    "name": "milotic"
   },
   {
     "id": "353",
-    "name": "カゲボウズ",
-    "englishName": "shuppet"
+    "japaneseName": "カゲボウズ",
+    "name": "shuppet"
   },
   {
     "id": "354",
-    "name": "ジュペッタ",
-    "englishName": "banette"
+    "japaneseName": "ジュペッタ",
+    "name": "banette"
   },
   {
     "id": "355",
-    "name": "ヨマワル",
-    "englishName": "duskull"
+    "japaneseName": "ヨマワル",
+    "name": "duskull"
   },
   {
     "id": "356",
-    "name": "サマヨール",
-    "englishName": "dusclops"
+    "japaneseName": "サマヨール",
+    "name": "dusclops"
   },
   {
     "id": "357",
-    "name": "トロピウス",
-    "englishName": "tropius"
+    "japaneseName": "トロピウス",
+    "name": "tropius"
   },
   {
     "id": "358",
-    "name": "チリーン",
-    "englishName": "chimecho"
+    "japaneseName": "チリーン",
+    "name": "chimecho"
   },
   {
     "id": "361",
-    "name": "ユキワラシ",
-    "englishName": "snorunt"
+    "japaneseName": "ユキワラシ",
+    "name": "snorunt"
   },
   {
     "id": "362",
-    "name": "オニゴーリ",
-    "englishName": "glalie"
+    "japaneseName": "オニゴーリ",
+    "name": "glalie"
   },
   {
     "id": "370",
-    "name": "ラブカス",
-    "englishName": "luvdisc"
+    "japaneseName": "ラブカス",
+    "name": "luvdisc"
   },
   {
     "id": "371",
-    "name": "タツベイ",
-    "englishName": "bagon"
+    "japaneseName": "タツベイ",
+    "name": "bagon"
   },
   {
     "id": "372",
-    "name": "コモルー",
-    "englishName": "shelgon"
+    "japaneseName": "コモルー",
+    "name": "shelgon"
   },
   {
     "id": "373",
-    "name": "ボーマンダ",
-    "englishName": "salamence"
+    "japaneseName": "ボーマンダ",
+    "name": "salamence"
   },
   {
     "id": "374",
-    "name": "ダンバル",
-    "englishName": "beldum"
+    "japaneseName": "ダンバル",
+    "name": "beldum"
   },
   {
     "id": "375",
-    "name": "メタング",
-    "englishName": "metang"
+    "japaneseName": "メタング",
+    "name": "metang"
   },
   {
     "id": "376",
-    "name": "メタグロス",
-    "englishName": "metagross"
+    "japaneseName": "メタグロス",
+    "name": "metagross"
   },
   {
     "id": "382",
-    "name": "カイオーガ",
-    "englishName": "kyogre"
+    "japaneseName": "カイオーガ",
+    "name": "kyogre"
   },
   {
     "id": "383",
-    "name": "グラードン",
-    "englishName": "groudon"
+    "japaneseName": "グラードン",
+    "name": "groudon"
   },
   {
     "id": "384",
-    "name": "レックウザ",
-    "englishName": "rayquaza"
+    "japaneseName": "レックウザ",
+    "name": "rayquaza"
   },
   {
     "id": "385",
-    "name": "ジラーチ",
-    "englishName": "jirachi"
+    "japaneseName": "ジラーチ",
+    "name": "jirachi"
   },
   {
     "id": "387",
-    "name": "ナエトル",
-    "englishName": "turtwig"
+    "japaneseName": "ナエトル",
+    "name": "turtwig"
   },
   {
     "id": "388",
-    "name": "ハヤシガメ",
-    "englishName": "grotle"
+    "japaneseName": "ハヤシガメ",
+    "name": "grotle"
   },
   {
     "id": "389",
-    "name": "ドダイトス",
-    "englishName": "torterra"
+    "japaneseName": "ドダイトス",
+    "name": "torterra"
   },
   {
     "id": "390",
-    "name": "ヒコザル",
-    "englishName": "chimchar"
+    "japaneseName": "ヒコザル",
+    "name": "chimchar"
   },
   {
     "id": "391",
-    "name": "モウカザル",
-    "englishName": "monferno"
+    "japaneseName": "モウカザル",
+    "name": "monferno"
   },
   {
     "id": "392",
-    "name": "ゴウカザル",
-    "englishName": "infernape"
+    "japaneseName": "ゴウカザル",
+    "name": "infernape"
   },
   {
     "id": "393",
-    "name": "ポッチャマ",
-    "englishName": "piplup"
+    "japaneseName": "ポッチャマ",
+    "name": "piplup"
   },
   {
     "id": "394",
-    "name": "ポッタイシ",
-    "englishName": "prinplup"
+    "japaneseName": "ポッタイシ",
+    "name": "prinplup"
   },
   {
     "id": "395",
-    "name": "エンペルト",
-    "englishName": "empoleon"
+    "japaneseName": "エンペルト",
+    "name": "empoleon"
   },
   {
     "id": "396",
-    "name": "ムックル",
-    "englishName": "starly"
+    "japaneseName": "ムックル",
+    "name": "starly"
   },
   {
     "id": "397",
-    "name": "ムクバード",
-    "englishName": "staravia"
+    "japaneseName": "ムクバード",
+    "name": "staravia"
   },
   {
     "id": "398",
-    "name": "ムクホーク",
-    "englishName": "staraptor"
+    "japaneseName": "ムクホーク",
+    "name": "staraptor"
   },
   {
     "id": "401",
-    "name": "コロボーシ",
-    "englishName": "kricketot"
+    "japaneseName": "コロボーシ",
+    "name": "kricketot"
   },
   {
     "id": "402",
-    "name": "コロトック",
-    "englishName": "kricketune"
+    "japaneseName": "コロトック",
+    "name": "kricketune"
   },
   {
     "id": "403",
-    "name": "コリンク",
-    "englishName": "shinx"
+    "japaneseName": "コリンク",
+    "name": "shinx"
   },
   {
     "id": "404",
-    "name": "ルクシオ",
-    "englishName": "luxio"
+    "japaneseName": "ルクシオ",
+    "name": "luxio"
   },
   {
     "id": "405",
-    "name": "レントラー",
-    "englishName": "luxray"
+    "japaneseName": "レントラー",
+    "name": "luxray"
   },
   {
     "id": "408",
-    "name": "ズガイドス",
-    "englishName": "cranidos"
+    "japaneseName": "ズガイドス",
+    "name": "cranidos"
   },
   {
     "id": "409",
-    "name": "ラムパルド",
-    "englishName": "rampardos"
+    "japaneseName": "ラムパルド",
+    "name": "rampardos"
   },
   {
     "id": "410",
-    "name": "タテトプス",
-    "englishName": "shieldon"
+    "japaneseName": "タテトプス",
+    "name": "shieldon"
   },
   {
     "id": "411",
-    "name": "トリデプス",
-    "englishName": "bastiodon"
+    "japaneseName": "トリデプス",
+    "name": "bastiodon"
   },
   {
     "id": "415",
-    "name": "ミツハニー",
-    "englishName": "combee"
+    "japaneseName": "ミツハニー",
+    "name": "combee"
   },
   {
     "id": "416",
-    "name": "ビークイン",
-    "englishName": "vespiquen"
+    "japaneseName": "ビークイン",
+    "name": "vespiquen"
   },
   {
     "id": "417",
-    "name": "パチリス",
-    "englishName": "pachirisu"
+    "japaneseName": "パチリス",
+    "name": "pachirisu"
   },
   {
     "id": "418",
-    "name": "ブイゼル",
-    "englishName": "buizel"
+    "japaneseName": "ブイゼル",
+    "name": "buizel"
   },
   {
     "id": "419",
-    "name": "フローゼル",
-    "englishName": "floatzel"
+    "japaneseName": "フローゼル",
+    "name": "floatzel"
   },
   {
     "id": "422",
-    "name": "カラナクシ",
-    "englishName": "shellos"
+    "japaneseName": "カラナクシ",
+    "name": "shellos"
   },
   {
     "id": "423",
-    "name": "トリトドン",
-    "englishName": "gastrodon"
+    "japaneseName": "トリトドン",
+    "name": "gastrodon"
   },
   {
     "id": "424",
-    "name": "エテボース",
-    "englishName": "ambipom"
+    "japaneseName": "エテボース",
+    "name": "ambipom"
   },
   {
     "id": "425",
-    "name": "フワンテ",
-    "englishName": "drifloon"
+    "japaneseName": "フワンテ",
+    "name": "drifloon"
   },
   {
     "id": "426",
-    "name": "フワライド",
-    "englishName": "drifblim"
+    "japaneseName": "フワライド",
+    "name": "drifblim"
   },
   {
     "id": "429",
-    "name": "ムウマージ",
-    "englishName": "mismagius"
+    "japaneseName": "ムウマージ",
+    "name": "mismagius"
   },
   {
     "id": "430",
-    "name": "ドンカラス",
-    "englishName": "honchkrow"
+    "japaneseName": "ドンカラス",
+    "name": "honchkrow"
   },
   {
     "id": "433",
-    "name": "リーシャン",
-    "englishName": "chingling"
+    "japaneseName": "リーシャン",
+    "name": "chingling"
   },
   {
     "id": "434",
-    "name": "スカンプー",
-    "englishName": "stunky"
+    "japaneseName": "スカンプー",
+    "name": "stunky"
   },
   {
     "id": "435",
-    "name": "スカタンク",
-    "englishName": "skuntank"
+    "japaneseName": "スカタンク",
+    "name": "skuntank"
   },
   {
     "id": "436",
-    "name": "ドーミラー",
-    "englishName": "bronzor"
+    "japaneseName": "ドーミラー",
+    "name": "bronzor"
   },
   {
     "id": "437",
-    "name": "ドータクン",
-    "englishName": "bronzong"
+    "japaneseName": "ドータクン",
+    "name": "bronzong"
   },
   {
     "id": "438",
-    "name": "ウソハチ",
-    "englishName": "bonsly"
+    "japaneseName": "ウソハチ",
+    "name": "bonsly"
   },
   {
     "id": "440",
-    "name": "ピンプク",
-    "englishName": "happiny"
+    "japaneseName": "ピンプク",
+    "name": "happiny"
   },
   {
     "id": "442",
-    "name": "ミカルゲ",
-    "englishName": "spiritomb"
+    "japaneseName": "ミカルゲ",
+    "name": "spiritomb"
   },
   {
     "id": "443",
-    "name": "フカマル",
-    "englishName": "gible"
+    "japaneseName": "フカマル",
+    "name": "gible"
   },
   {
     "id": "444",
-    "name": "ガバイト",
-    "englishName": "gabite"
+    "japaneseName": "ガバイト",
+    "name": "gabite"
   },
   {
     "id": "445",
-    "name": "ガブリアス",
-    "englishName": "garchomp"
+    "japaneseName": "ガブリアス",
+    "name": "garchomp"
   },
   {
     "id": "446",
-    "name": "ゴンベ",
-    "englishName": "munchlax"
+    "japaneseName": "ゴンベ",
+    "name": "munchlax"
   },
   {
     "id": "447",
-    "name": "リオル",
-    "englishName": "riolu"
+    "japaneseName": "リオル",
+    "name": "riolu"
   },
   {
     "id": "448",
-    "name": "ルカリオ",
-    "englishName": "lucario"
+    "japaneseName": "ルカリオ",
+    "name": "lucario"
   },
   {
     "id": "449",
-    "name": "ヒポポタス",
-    "englishName": "hippopotas"
+    "japaneseName": "ヒポポタス",
+    "name": "hippopotas"
   },
   {
     "id": "450",
-    "name": "カバルドン",
-    "englishName": "hippowdon"
+    "japaneseName": "カバルドン",
+    "name": "hippowdon"
   },
   {
     "id": "453",
-    "name": "グレッグル",
-    "englishName": "croagunk"
+    "japaneseName": "グレッグル",
+    "name": "croagunk"
   },
   {
     "id": "454",
-    "name": "ドクロッグ",
-    "englishName": "toxicroak"
+    "japaneseName": "ドクロッグ",
+    "name": "toxicroak"
   },
   {
     "id": "456",
-    "name": "ケイコウオ",
-    "englishName": "finneon"
+    "japaneseName": "ケイコウオ",
+    "name": "finneon"
   },
   {
     "id": "457",
-    "name": "ネオラント",
-    "englishName": "lumineon"
+    "japaneseName": "ネオラント",
+    "name": "lumineon"
   },
   {
     "id": "459",
-    "name": "ユキカブリ",
-    "englishName": "snover"
+    "japaneseName": "ユキカブリ",
+    "name": "snover"
   },
   {
     "id": "460",
-    "name": "ユキノオー",
-    "englishName": "abomasnow"
+    "japaneseName": "ユキノオー",
+    "name": "abomasnow"
   },
   {
     "id": "461",
-    "name": "マニューラ",
-    "englishName": "weavile"
+    "japaneseName": "マニューラ",
+    "name": "weavile"
   },
   {
     "id": "462",
-    "name": "ジバコイル",
-    "englishName": "magnezone"
+    "japaneseName": "ジバコイル",
+    "name": "magnezone"
   },
   {
     "id": "464",
-    "name": "ドサイドン",
-    "englishName": "rhyperior"
+    "japaneseName": "ドサイドン",
+    "name": "rhyperior"
   },
   {
     "id": "467",
-    "name": "ブーバーン",
-    "englishName": "magmortar"
+    "japaneseName": "ブーバーン",
+    "name": "magmortar"
   },
   {
     "id": "469",
-    "name": "メガヤンマ",
-    "englishName": "yanmega"
+    "japaneseName": "メガヤンマ",
+    "name": "yanmega"
   },
   {
     "id": "470",
-    "name": "リーフィア",
-    "englishName": "leafeon"
+    "japaneseName": "リーフィア",
+    "name": "leafeon"
   },
   {
     "id": "471",
-    "name": "グレイシア",
-    "englishName": "glaceon"
+    "japaneseName": "グレイシア",
+    "name": "glaceon"
   },
   {
     "id": "472",
-    "name": "グライオン",
-    "englishName": "gliscor"
+    "japaneseName": "グライオン",
+    "name": "gliscor"
   },
   {
     "id": "473",
-    "name": "マンムー",
-    "englishName": "mamoswine"
+    "japaneseName": "マンムー",
+    "name": "mamoswine"
   },
   {
     "id": "475",
-    "name": "エルレイド",
-    "englishName": "gallade"
+    "japaneseName": "エルレイド",
+    "name": "gallade"
   },
   {
     "id": "476",
-    "name": "ダイノーズ",
-    "englishName": "probopass"
+    "japaneseName": "ダイノーズ",
+    "name": "probopass"
   },
   {
     "id": "477",
-    "name": "ヨノワール",
-    "englishName": "dusknoir"
+    "japaneseName": "ヨノワール",
+    "name": "dusknoir"
   },
   {
     "id": "478",
-    "name": "ユキメノコ",
-    "englishName": "froslass"
+    "japaneseName": "ユキメノコ",
+    "name": "froslass"
   },
   {
     "id": "479",
-    "name": "ロトム",
-    "englishName": "rotom"
+    "japaneseName": "ロトム",
+    "name": "rotom"
   },
   {
     "id": "479",
-    "name": "ヒートロトム",
-    "englishName": "rotom"
+    "japaneseName": "ヒートロトム",
+    "name": "rotom"
   },
   {
     "id": "479",
-    "name": "ウォッシュロトム",
-    "englishName": "rotom"
+    "japaneseName": "ウォッシュロトム",
+    "name": "rotom"
   },
   {
     "id": "479",
-    "name": "フロストロトム",
-    "englishName": "rotom"
+    "japaneseName": "フロストロトム",
+    "name": "rotom"
   },
   {
     "id": "479",
-    "name": "スピンロトム",
-    "englishName": "rotom"
+    "japaneseName": "スピンロトム",
+    "name": "rotom"
   },
   {
     "id": "479",
-    "name": "カットロトム",
-    "englishName": "rotom"
+    "japaneseName": "カットロトム",
+    "name": "rotom"
   },
   {
     "id": "480",
-    "name": "ユクシー",
-    "englishName": "uxie"
+    "japaneseName": "ユクシー",
+    "name": "uxie"
   },
   {
     "id": "481",
-    "name": "エムリット",
-    "englishName": "mesprit"
+    "japaneseName": "エムリット",
+    "name": "mesprit"
   },
   {
     "id": "482",
-    "name": "アグノム",
-    "englishName": "azelf"
+    "japaneseName": "アグノム",
+    "name": "azelf"
   },
   {
     "id": "483",
-    "name": "ディアルガ",
-    "englishName": "dialga"
+    "japaneseName": "ディアルガ",
+    "name": "dialga"
   },
   {
     "id": "483",
-    "name": "ディアルガ(オリジン)",
-    "englishName": "dialga"
+    "japaneseName": "ディアルガ(オリジン)",
+    "name": "dialga"
   },
   {
     "id": "484",
-    "name": "パルキア",
-    "englishName": "palkia"
+    "japaneseName": "パルキア",
+    "name": "palkia"
   },
   {
     "id": "484",
-    "name": "パルキア(オリジン)",
-    "englishName": "palkia"
+    "japaneseName": "パルキア(オリジン)",
+    "name": "palkia"
   },
   {
     "id": "485",
-    "name": "ヒードラン",
-    "englishName": "heatran"
+    "japaneseName": "ヒードラン",
+    "name": "heatran"
   },
   {
     "id": "487",
-    "name": "ギラティナ(アナザー)",
-    "englishName": "giratina"
+    "japaneseName": "ギラティナ(アナザー)",
+    "name": "giratina"
   },
   {
     "id": "487",
-    "name": "ギラティナ(オリジン)",
-    "englishName": "giratina"
+    "japaneseName": "ギラティナ(オリジン)",
+    "name": "giratina"
   },
   {
     "id": "488",
-    "name": "クレセリア",
-    "englishName": "cresselia"
+    "japaneseName": "クレセリア",
+    "name": "cresselia"
   },
   {
     "id": "489",
-    "name": "フィオネ",
-    "englishName": "phione"
+    "japaneseName": "フィオネ",
+    "name": "phione"
   },
   {
     "id": "490",
-    "name": "マナフィ",
-    "englishName": "manaphy"
+    "japaneseName": "マナフィ",
+    "name": "manaphy"
   },
   {
     "id": "491",
-    "name": "ダークライ",
-    "englishName": "darkrai"
+    "japaneseName": "ダークライ",
+    "name": "darkrai"
   },
   {
     "id": "492",
-    "name": "シェイミ(ランド)",
-    "englishName": "shaymin"
+    "japaneseName": "シェイミ(ランド)",
+    "name": "shaymin"
   },
   {
     "id": "492",
-    "name": "シェイミ(スカイ)",
-    "englishName": "shaymin"
+    "japaneseName": "シェイミ(スカイ)",
+    "name": "shaymin"
   },
   {
     "id": "493",
-    "name": "アルセウス",
-    "englishName": "arceus"
+    "japaneseName": "アルセウス",
+    "name": "arceus"
   },
   {
     "id": "495",
-    "name": "ツタージャ",
-    "englishName": "snivy"
+    "japaneseName": "ツタージャ",
+    "name": "snivy"
   },
   {
     "id": "496",
-    "name": "ジャノビー",
-    "englishName": "servine"
+    "japaneseName": "ジャノビー",
+    "name": "servine"
   },
   {
     "id": "497",
-    "name": "ジャローダ",
-    "englishName": "serperior"
+    "japaneseName": "ジャローダ",
+    "name": "serperior"
   },
   {
     "id": "498",
-    "name": "ポカブ",
-    "englishName": "tepig"
+    "japaneseName": "ポカブ",
+    "name": "tepig"
   },
   {
     "id": "499",
-    "name": "チャオブー",
-    "englishName": "pignite"
+    "japaneseName": "チャオブー",
+    "name": "pignite"
   },
   {
     "id": "500",
-    "name": "エンブオー",
-    "englishName": "emboar"
+    "japaneseName": "エンブオー",
+    "name": "emboar"
   },
   {
     "id": "501",
-    "name": "ミジュマル",
-    "englishName": "oshawott"
+    "japaneseName": "ミジュマル",
+    "name": "oshawott"
   },
   {
     "id": "502",
-    "name": "フタチマル",
-    "englishName": "dewott"
+    "japaneseName": "フタチマル",
+    "name": "dewott"
   },
   {
     "id": "503",
-    "name": "ダイケンキ",
-    "englishName": "samurott"
+    "japaneseName": "ダイケンキ",
+    "name": "samurott"
   },
   {
     "id": "503",
-    "name": "ダイケンキ(ヒスイ)",
-    "englishName": "samurott"
+    "japaneseName": "ダイケンキ(ヒスイ)",
+    "name": "samurott"
   },
   {
     "id": "522",
-    "name": "シママ",
-    "englishName": "blitzle"
+    "japaneseName": "シママ",
+    "name": "blitzle"
   },
   {
     "id": "523",
-    "name": "ゼブライカ",
-    "englishName": "zebstrika"
+    "japaneseName": "ゼブライカ",
+    "name": "zebstrika"
   },
   {
     "id": "532",
-    "name": "ドッコラー",
-    "englishName": "timburr"
+    "japaneseName": "ドッコラー",
+    "name": "timburr"
   },
   {
     "id": "533",
-    "name": "ドテッコツ",
-    "englishName": "gurdurr"
+    "japaneseName": "ドテッコツ",
+    "name": "gurdurr"
   },
   {
     "id": "534",
-    "name": "ローブシン",
-    "englishName": "conkeldurr"
+    "japaneseName": "ローブシン",
+    "name": "conkeldurr"
   },
   {
     "id": "540",
-    "name": "クルミル",
-    "englishName": "sewaddle"
+    "japaneseName": "クルミル",
+    "name": "sewaddle"
   },
   {
     "id": "541",
-    "name": "クルマユ",
-    "englishName": "swadloon"
+    "japaneseName": "クルマユ",
+    "name": "swadloon"
   },
   {
     "id": "542",
-    "name": "ハハコモリ",
-    "englishName": "leavanny"
+    "japaneseName": "ハハコモリ",
+    "name": "leavanny"
   },
   {
     "id": "546",
-    "name": "モンメン",
-    "englishName": "cottonee"
+    "japaneseName": "モンメン",
+    "name": "cottonee"
   },
   {
     "id": "547",
-    "name": "エルフーン",
-    "englishName": "whimsicott"
+    "japaneseName": "エルフーン",
+    "name": "whimsicott"
   },
   {
     "id": "548",
-    "name": "チュリネ",
-    "englishName": "petilil"
+    "japaneseName": "チュリネ",
+    "name": "petilil"
   },
   {
     "id": "549",
-    "name": "ドレディア",
-    "englishName": "lilligant"
+    "japaneseName": "ドレディア",
+    "name": "lilligant"
   },
   {
     "id": "549",
-    "name": "ドレディア(ヒスイ)",
-    "englishName": "lilligant"
+    "japaneseName": "ドレディア(ヒスイ)",
+    "name": "lilligant"
   },
   {
     "id": "550",
-    "name": "バスラオ(赤)",
-    "englishName": "basculin"
+    "japaneseName": "バスラオ(赤)",
+    "name": "basculin"
   },
   {
     "id": "550",
-    "name": "バスラオ(青)",
-    "englishName": "basculin"
+    "japaneseName": "バスラオ(青)",
+    "name": "basculin"
   },
   {
     "id": "550",
-    "name": "バスラオ(白)",
-    "englishName": "basculin"
+    "japaneseName": "バスラオ(白)",
+    "name": "basculin"
   },
   {
     "id": "551",
-    "name": "メグロコ",
-    "englishName": "sandile"
+    "japaneseName": "メグロコ",
+    "name": "sandile"
   },
   {
     "id": "552",
-    "name": "ワルビル",
-    "englishName": "krokorok"
+    "japaneseName": "ワルビル",
+    "name": "krokorok"
   },
   {
     "id": "553",
-    "name": "ワルビアル",
-    "englishName": "krookodile"
+    "japaneseName": "ワルビアル",
+    "name": "krookodile"
   },
   {
     "id": "570",
-    "name": "ゾロア",
-    "englishName": "zorua"
+    "japaneseName": "ゾロア",
+    "name": "zorua"
   },
   {
     "id": "570",
-    "name": "ゾロア(ヒスイ)",
-    "englishName": "zorua"
+    "japaneseName": "ゾロア(ヒスイ)",
+    "name": "zorua"
   },
   {
     "id": "571",
-    "name": "ゾロアーク",
-    "englishName": "zoroark"
+    "japaneseName": "ゾロアーク",
+    "name": "zoroark"
   },
   {
     "id": "571",
-    "name": "ゾロアーク(ヒスイ)",
-    "englishName": "zoroark"
+    "japaneseName": "ゾロアーク(ヒスイ)",
+    "name": "zoroark"
   },
   {
     "id": "572",
-    "name": "チラーミィ",
-    "englishName": "minccino"
+    "japaneseName": "チラーミィ",
+    "name": "minccino"
   },
   {
     "id": "573",
-    "name": "チラチーノ",
-    "englishName": "cinccino"
+    "japaneseName": "チラチーノ",
+    "name": "cinccino"
   },
   {
     "id": "574",
-    "name": "ゴチム",
-    "englishName": "gothita"
+    "japaneseName": "ゴチム",
+    "name": "gothita"
   },
   {
     "id": "575",
-    "name": "ゴチミル",
-    "englishName": "gothorita"
+    "japaneseName": "ゴチミル",
+    "name": "gothorita"
   },
   {
     "id": "576",
-    "name": "ゴチルゼル",
-    "englishName": "gothitelle"
+    "japaneseName": "ゴチルゼル",
+    "name": "gothitelle"
   },
   {
     "id": "577",
-    "name": "ユニラン",
-    "englishName": "solosis"
+    "japaneseName": "ユニラン",
+    "name": "solosis"
   },
   {
     "id": "578",
-    "name": "ダブラン",
-    "englishName": "duosion"
+    "japaneseName": "ダブラン",
+    "name": "duosion"
   },
   {
     "id": "579",
-    "name": "ランクルス",
-    "englishName": "reuniclus"
+    "japaneseName": "ランクルス",
+    "name": "reuniclus"
   },
   {
     "id": "580",
-    "name": "コアルヒー",
-    "englishName": "ducklett"
+    "japaneseName": "コアルヒー",
+    "name": "ducklett"
   },
   {
     "id": "581",
-    "name": "スワンナ",
-    "englishName": "swanna"
+    "japaneseName": "スワンナ",
+    "name": "swanna"
   },
   {
     "id": "585",
-    "name": "シキジカ",
-    "englishName": "deerling"
+    "japaneseName": "シキジカ",
+    "name": "deerling"
   },
   {
     "id": "586",
-    "name": "メブキジカ",
-    "englishName": "sawsbuck"
+    "japaneseName": "メブキジカ",
+    "name": "sawsbuck"
   },
   {
     "id": "590",
-    "name": "タマゲタケ",
-    "englishName": "foongus"
+    "japaneseName": "タマゲタケ",
+    "name": "foongus"
   },
   {
     "id": "591",
-    "name": "モロバレル",
-    "englishName": "amoonguss"
+    "japaneseName": "モロバレル",
+    "name": "amoonguss"
   },
   {
     "id": "594",
-    "name": "ママンボウ",
-    "englishName": "alomomola"
+    "japaneseName": "ママンボウ",
+    "name": "alomomola"
   },
   {
     "id": "602",
-    "name": "シビシラス",
-    "englishName": "tynamo"
+    "japaneseName": "シビシラス",
+    "name": "tynamo"
   },
   {
     "id": "603",
-    "name": "シビビール",
-    "englishName": "eelektrik"
+    "japaneseName": "シビビール",
+    "name": "eelektrik"
   },
   {
     "id": "604",
-    "name": "シビルドン",
-    "englishName": "eelektross"
+    "japaneseName": "シビルドン",
+    "name": "eelektross"
   },
   {
     "id": "607",
-    "name": "ヒトモシ",
-    "englishName": "litwick"
+    "japaneseName": "ヒトモシ",
+    "name": "litwick"
   },
   {
     "id": "608",
-    "name": "ランプラー",
-    "englishName": "lampent"
+    "japaneseName": "ランプラー",
+    "name": "lampent"
   },
   {
     "id": "609",
-    "name": "シャンデラ",
-    "englishName": "chandelure"
+    "japaneseName": "シャンデラ",
+    "name": "chandelure"
   },
   {
     "id": "610",
-    "name": "キバゴ",
-    "englishName": "axew"
+    "japaneseName": "キバゴ",
+    "name": "axew"
   },
   {
     "id": "611",
-    "name": "オノンド",
-    "englishName": "fraxure"
+    "japaneseName": "オノンド",
+    "name": "fraxure"
   },
   {
     "id": "612",
-    "name": "オノノクス",
-    "englishName": "haxorus"
+    "japaneseName": "オノノクス",
+    "name": "haxorus"
   },
   {
     "id": "613",
-    "name": "クマシュン",
-    "englishName": "cubchoo"
+    "japaneseName": "クマシュン",
+    "name": "cubchoo"
   },
   {
     "id": "614",
-    "name": "ツンベアー",
-    "englishName": "beartic"
+    "japaneseName": "ツンベアー",
+    "name": "beartic"
   },
   {
     "id": "615",
-    "name": "フリージオ",
-    "englishName": "cryogonal"
+    "japaneseName": "フリージオ",
+    "name": "cryogonal"
   },
   {
     "id": "619",
-    "name": "コジョフー",
-    "englishName": "mienfoo"
+    "japaneseName": "コジョフー",
+    "name": "mienfoo"
   },
   {
     "id": "620",
-    "name": "コジョンド",
-    "englishName": "mienshao"
+    "japaneseName": "コジョンド",
+    "name": "mienshao"
   },
   {
     "id": "622",
-    "name": "ゴビット",
-    "englishName": "golett"
+    "japaneseName": "ゴビット",
+    "name": "golett"
   },
   {
     "id": "623",
-    "name": "ゴルーグ",
-    "englishName": "golurk"
+    "japaneseName": "ゴルーグ",
+    "name": "golurk"
   },
   {
     "id": "624",
-    "name": "コマタナ",
-    "englishName": "pawniard"
+    "japaneseName": "コマタナ",
+    "name": "pawniard"
   },
   {
     "id": "625",
-    "name": "キリキザン",
-    "englishName": "bisharp"
+    "japaneseName": "キリキザン",
+    "name": "bisharp"
   },
   {
     "id": "627",
-    "name": "ワシボン",
-    "englishName": "rufflet"
+    "japaneseName": "ワシボン",
+    "name": "rufflet"
   },
   {
     "id": "628",
-    "name": "ウォーグル",
-    "englishName": "braviary"
+    "japaneseName": "ウォーグル",
+    "name": "braviary"
   },
   {
     "id": "628",
-    "name": "ウォーグル(ヒスイ)",
-    "englishName": "braviary"
+    "japaneseName": "ウォーグル(ヒスイ)",
+    "name": "braviary"
   },
   {
     "id": "629",
-    "name": "バルチャイ",
-    "englishName": "vullaby"
+    "japaneseName": "バルチャイ",
+    "name": "vullaby"
   },
   {
     "id": "630",
-    "name": "バルジーナ",
-    "englishName": "mandibuzz"
+    "japaneseName": "バルジーナ",
+    "name": "mandibuzz"
   },
   {
     "id": "633",
-    "name": "モノズ",
-    "englishName": "deino"
+    "japaneseName": "モノズ",
+    "name": "deino"
   },
   {
     "id": "634",
-    "name": "ジヘッド",
-    "englishName": "zweilous"
+    "japaneseName": "ジヘッド",
+    "name": "zweilous"
   },
   {
     "id": "635",
-    "name": "サザンドラ",
-    "englishName": "hydreigon"
+    "japaneseName": "サザンドラ",
+    "name": "hydreigon"
   },
   {
     "id": "636",
-    "name": "メラルバ",
-    "englishName": "larvesta"
+    "japaneseName": "メラルバ",
+    "name": "larvesta"
   },
   {
     "id": "637",
-    "name": "ウルガモス",
-    "englishName": "volcarona"
+    "japaneseName": "ウルガモス",
+    "name": "volcarona"
   },
   {
     "id": "641",
-    "name": "トルネロス(化身)",
-    "englishName": "tornadus"
+    "japaneseName": "トルネロス(化身)",
+    "name": "tornadus"
   },
   {
     "id": "641",
-    "name": "トルネロス(霊獣)",
-    "englishName": "tornadus"
+    "japaneseName": "トルネロス(霊獣)",
+    "name": "tornadus"
   },
   {
     "id": "642",
-    "name": "ボルトロス(化身)",
-    "englishName": "thundurus"
+    "japaneseName": "ボルトロス(化身)",
+    "name": "thundurus"
   },
   {
     "id": "642",
-    "name": "ボルトロス(霊獣)",
-    "englishName": "thundurus"
+    "japaneseName": "ボルトロス(霊獣)",
+    "name": "thundurus"
   },
   {
     "id": "645",
-    "name": "ランドロス(化身)",
-    "englishName": "landorus"
+    "japaneseName": "ランドロス(化身)",
+    "name": "landorus"
   },
   {
     "id": "645",
-    "name": "ランドロス(霊獣)",
-    "englishName": "landorus"
+    "japaneseName": "ランドロス(霊獣)",
+    "name": "landorus"
   },
   {
     "id": "648",
-    "name": "メロエッタ(ボイス)",
-    "englishName": "meloetta"
+    "japaneseName": "メロエッタ(ボイス)",
+    "name": "meloetta"
   },
   {
     "id": "648",
-    "name": "メロエッタ(ステップ)",
-    "englishName": "meloetta"
+    "japaneseName": "メロエッタ(ステップ)",
+    "name": "meloetta"
   },
   {
     "id": "650",
-    "name": "ハリマロン",
-    "englishName": "chespin"
+    "japaneseName": "ハリマロン",
+    "name": "chespin"
   },
   {
     "id": "651",
-    "name": "ハリボーグ",
-    "englishName": "quilladin"
+    "japaneseName": "ハリボーグ",
+    "name": "quilladin"
   },
   {
     "id": "652",
-    "name": "ブリガロン",
-    "englishName": "chesnaught"
+    "japaneseName": "ブリガロン",
+    "name": "chesnaught"
   },
   {
     "id": "653",
-    "name": "フォッコ",
-    "englishName": "fennekin"
+    "japaneseName": "フォッコ",
+    "name": "fennekin"
   },
   {
     "id": "654",
-    "name": "テールナー",
-    "englishName": "braixen"
+    "japaneseName": "テールナー",
+    "name": "braixen"
   },
   {
     "id": "655",
-    "name": "マフォクシー",
-    "englishName": "delphox"
+    "japaneseName": "マフォクシー",
+    "name": "delphox"
   },
   {
     "id": "656",
-    "name": "ケロマツ",
-    "englishName": "froakie"
+    "japaneseName": "ケロマツ",
+    "name": "froakie"
   },
   {
     "id": "657",
-    "name": "ゲコガシラ",
-    "englishName": "frogadier"
+    "japaneseName": "ゲコガシラ",
+    "name": "frogadier"
   },
   {
     "id": "658",
-    "name": "ゲッコウガ",
-    "englishName": "greninja"
+    "japaneseName": "ゲッコウガ",
+    "name": "greninja"
   },
   {
     "id": "661",
-    "name": "ヤヤコマ",
-    "englishName": "fletchling"
+    "japaneseName": "ヤヤコマ",
+    "name": "fletchling"
   },
   {
     "id": "662",
-    "name": "ヒノヤコマ",
-    "englishName": "fletchinder"
+    "japaneseName": "ヒノヤコマ",
+    "name": "fletchinder"
   },
   {
     "id": "663",
-    "name": "ファイアロー",
-    "englishName": "talonflame"
+    "japaneseName": "ファイアロー",
+    "name": "talonflame"
   },
   {
     "id": "664",
-    "name": "コフキムシ",
-    "englishName": "scatterbug"
+    "japaneseName": "コフキムシ",
+    "name": "scatterbug"
   },
   {
     "id": "665",
-    "name": "コフーライ",
-    "englishName": "spewpa"
+    "japaneseName": "コフーライ",
+    "name": "spewpa"
   },
   {
     "id": "666",
-    "name": "ビビヨン",
-    "englishName": "vivillon"
+    "japaneseName": "ビビヨン",
+    "name": "vivillon"
   },
   {
     "id": "667",
-    "name": "シシコ",
-    "englishName": "litleo"
+    "japaneseName": "シシコ",
+    "name": "litleo"
   },
   {
     "id": "668",
-    "name": "カエンジシ",
-    "englishName": "pyroar"
+    "japaneseName": "カエンジシ",
+    "name": "pyroar"
   },
   {
     "id": "669",
-    "name": "フラベベ",
-    "englishName": "flabebe"
+    "japaneseName": "フラベベ",
+    "name": "flabebe"
   },
   {
     "id": "670",
-    "name": "フラエッテ",
-    "englishName": "floette"
+    "japaneseName": "フラエッテ",
+    "name": "floette"
   },
   {
     "id": "671",
-    "name": "フラージェス",
-    "englishName": "florges"
+    "japaneseName": "フラージェス",
+    "name": "florges"
   },
   {
     "id": "672",
-    "name": "メェークル",
-    "englishName": "skiddo"
+    "japaneseName": "メェークル",
+    "name": "skiddo"
   },
   {
     "id": "673",
-    "name": "ゴーゴート",
-    "englishName": "gogoat"
+    "japaneseName": "ゴーゴート",
+    "name": "gogoat"
   },
   {
     "id": "677",
-    "name": "ニャスパー",
-    "englishName": "espurr"
+    "japaneseName": "ニャスパー",
+    "name": "espurr"
   },
   {
     "id": "678",
-    "name": "ニャオニクス♂",
-    "englishName": "meowstic"
+    "japaneseName": "ニャオニクス♂",
+    "name": "meowstic"
   },
   {
     "id": "678",
-    "name": "ニャオニクス♀",
-    "englishName": "meowstic"
+    "japaneseName": "ニャオニクス♀",
+    "name": "meowstic"
   },
   {
     "id": "686",
-    "name": "マーイーカ",
-    "englishName": "inkay"
+    "japaneseName": "マーイーカ",
+    "name": "inkay"
   },
   {
     "id": "687",
-    "name": "カラマネロ",
-    "englishName": "malamar"
+    "japaneseName": "カラマネロ",
+    "name": "malamar"
   },
   {
     "id": "690",
-    "name": "クズモー",
-    "englishName": "skrelp"
+    "japaneseName": "クズモー",
+    "name": "skrelp"
   },
   {
     "id": "691",
-    "name": "ドラミドロ",
-    "englishName": "dragalge"
+    "japaneseName": "ドラミドロ",
+    "name": "dragalge"
   },
   {
     "id": "692",
-    "name": "ウデッポウ",
-    "englishName": "clauncher"
+    "japaneseName": "ウデッポウ",
+    "name": "clauncher"
   },
   {
     "id": "693",
-    "name": "ブロスター",
-    "englishName": "clawitzer"
+    "japaneseName": "ブロスター",
+    "name": "clawitzer"
   },
   {
     "id": "700",
-    "name": "ニンフィア",
-    "englishName": "sylveon"
+    "japaneseName": "ニンフィア",
+    "name": "sylveon"
   },
   {
     "id": "701",
-    "name": "ルチャブル",
-    "englishName": "hawlucha"
+    "japaneseName": "ルチャブル",
+    "name": "hawlucha"
   },
   {
     "id": "702",
-    "name": "デデンネ",
-    "englishName": "dedenne"
+    "japaneseName": "デデンネ",
+    "name": "dedenne"
   },
   {
     "id": "703",
-    "name": "メレシー",
-    "englishName": "carbink"
+    "japaneseName": "メレシー",
+    "name": "carbink"
   },
   {
     "id": "704",
-    "name": "ヌメラ",
-    "englishName": "goomy"
+    "japaneseName": "ヌメラ",
+    "name": "goomy"
   },
   {
     "id": "705",
-    "name": "ヌメイル",
-    "englishName": "sliggoo"
+    "japaneseName": "ヌメイル",
+    "name": "sliggoo"
   },
   {
     "id": "705",
-    "name": "ヌメイル(ヒスイ)",
-    "englishName": "sliggoo"
+    "japaneseName": "ヌメイル(ヒスイ)",
+    "name": "sliggoo"
   },
   {
     "id": "706",
-    "name": "ヌメルゴン",
-    "englishName": "goodra"
+    "japaneseName": "ヌメルゴン",
+    "name": "goodra"
   },
   {
     "id": "706",
-    "name": "ヌメルゴン(ヒスイ)",
-    "englishName": "goodra"
+    "japaneseName": "ヌメルゴン(ヒスイ)",
+    "name": "goodra"
   },
   {
     "id": "707",
-    "name": "クレッフィ",
-    "englishName": "klefki"
+    "japaneseName": "クレッフィ",
+    "name": "klefki"
   },
   {
     "id": "708",
-    "name": "ボクレー",
-    "englishName": "phantump"
+    "japaneseName": "ボクレー",
+    "name": "phantump"
   },
   {
     "id": "709",
-    "name": "オーロット",
-    "englishName": "trevenant"
+    "japaneseName": "オーロット",
+    "name": "trevenant"
   },
   {
     "id": "712",
-    "name": "カチコール",
-    "englishName": "bergmite"
+    "japaneseName": "カチコール",
+    "name": "bergmite"
   },
   {
     "id": "713",
-    "name": "クレベース",
-    "englishName": "avalugg"
+    "japaneseName": "クレベース",
+    "name": "avalugg"
   },
   {
     "id": "713",
-    "name": "クレベース(ヒスイ)",
-    "englishName": "avalugg"
+    "japaneseName": "クレベース(ヒスイ)",
+    "name": "avalugg"
   },
   {
     "id": "714",
-    "name": "オンバット",
-    "englishName": "noibat"
+    "japaneseName": "オンバット",
+    "name": "noibat"
   },
   {
     "id": "715",
-    "name": "オンバーン",
-    "englishName": "noivern"
+    "japaneseName": "オンバーン",
+    "name": "noivern"
   },
   {
     "id": "719",
-    "name": "ディアンシー",
-    "englishName": "diancie"
+    "japaneseName": "ディアンシー",
+    "name": "diancie"
   },
   {
     "id": "720",
-    "name": "フーパ(いましめ)",
-    "englishName": "hoopa"
+    "japaneseName": "フーパ(いましめ)",
+    "name": "hoopa"
   },
   {
     "id": "720",
-    "name": "フーパ(ときはな)",
-    "englishName": "hoopa"
+    "japaneseName": "フーパ(ときはな)",
+    "name": "hoopa"
   },
   {
     "id": "721",
-    "name": "ボルケニオン",
-    "englishName": "volcanion"
+    "japaneseName": "ボルケニオン",
+    "name": "volcanion"
   },
   {
     "id": "722",
-    "name": "モクロー",
-    "englishName": "rowlet"
+    "japaneseName": "モクロー",
+    "name": "rowlet"
   },
   {
     "id": "723",
-    "name": "フクスロー",
-    "englishName": "dartrix"
+    "japaneseName": "フクスロー",
+    "name": "dartrix"
   },
   {
     "id": "724",
-    "name": "ジュナイパー",
-    "englishName": "decidueye"
+    "japaneseName": "ジュナイパー",
+    "name": "decidueye"
   },
   {
     "id": "724",
-    "name": "ジュナイパー(ヒスイ)",
-    "englishName": "decidueye"
+    "japaneseName": "ジュナイパー(ヒスイ)",
+    "name": "decidueye"
   },
   {
     "id": "725",
-    "name": "ニャビー",
-    "englishName": "litten"
+    "japaneseName": "ニャビー",
+    "name": "litten"
   },
   {
     "id": "726",
-    "name": "ニャヒート",
-    "englishName": "torracat"
+    "japaneseName": "ニャヒート",
+    "name": "torracat"
   },
   {
     "id": "727",
-    "name": "ガオガエン",
-    "englishName": "incineroar"
+    "japaneseName": "ガオガエン",
+    "name": "incineroar"
   },
   {
     "id": "728",
-    "name": "アシマリ",
-    "englishName": "popplio"
+    "japaneseName": "アシマリ",
+    "name": "popplio"
   },
   {
     "id": "729",
-    "name": "オシャマリ",
-    "englishName": "brionne"
+    "japaneseName": "オシャマリ",
+    "name": "brionne"
   },
   {
     "id": "730",
-    "name": "アシレーヌ",
-    "englishName": "primarina"
+    "japaneseName": "アシレーヌ",
+    "name": "primarina"
   },
   {
     "id": "731",
-    "name": "ツツケラ",
-    "englishName": "pikipek"
+    "japaneseName": "ツツケラ",
+    "name": "pikipek"
   },
   {
     "id": "732",
-    "name": "ケララッパ",
-    "englishName": "trumbeak"
+    "japaneseName": "ケララッパ",
+    "name": "trumbeak"
   },
   {
     "id": "733",
-    "name": "ドデカバシ",
-    "englishName": "toucannon"
+    "japaneseName": "ドデカバシ",
+    "name": "toucannon"
   },
   {
     "id": "734",
-    "name": "ヤングース",
-    "englishName": "yungoos"
+    "japaneseName": "ヤングース",
+    "name": "yungoos"
   },
   {
     "id": "735",
-    "name": "デカグース",
-    "englishName": "gumshoos"
+    "japaneseName": "デカグース",
+    "name": "gumshoos"
   },
   {
     "id": "736",
-    "name": "アゴジムシ",
-    "englishName": "grubbin"
+    "japaneseName": "アゴジムシ",
+    "name": "grubbin"
   },
   {
     "id": "737",
-    "name": "デンヂムシ",
-    "englishName": "charjabug"
+    "japaneseName": "デンヂムシ",
+    "name": "charjabug"
   },
   {
     "id": "738",
-    "name": "クワガノン",
-    "englishName": "vikavolt"
+    "japaneseName": "クワガノン",
+    "name": "vikavolt"
   },
   {
     "id": "739",
-    "name": "マケンカニ",
-    "englishName": "crabrawler"
+    "japaneseName": "マケンカニ",
+    "name": "crabrawler"
   },
   {
     "id": "740",
-    "name": "ケケンカニ",
-    "englishName": "crabominable"
+    "japaneseName": "ケケンカニ",
+    "name": "crabominable"
   },
   {
     "id": "741",
-    "name": "オドリドリ(めらめら)",
-    "englishName": "oricorio"
+    "japaneseName": "オドリドリ(めらめら)",
+    "name": "oricorio"
   },
   {
     "id": "741",
-    "name": "オドリドリ(ぱちぱち)",
-    "englishName": "oricorio"
+    "japaneseName": "オドリドリ(ぱちぱち)",
+    "name": "oricorio"
   },
   {
     "id": "741",
-    "name": "オドリドリ(ふらふら)",
-    "englishName": "oricorio"
+    "japaneseName": "オドリドリ(ふらふら)",
+    "name": "oricorio"
   },
   {
     "id": "741",
-    "name": "オドリドリ(まいまい)",
-    "englishName": "oricorio"
+    "japaneseName": "オドリドリ(まいまい)",
+    "name": "oricorio"
   },
   {
     "id": "742",
-    "name": "アブリー",
-    "englishName": "cutiefly"
+    "japaneseName": "アブリー",
+    "name": "cutiefly"
   },
   {
     "id": "743",
-    "name": "アブリボン",
-    "englishName": "ribombee"
+    "japaneseName": "アブリボン",
+    "name": "ribombee"
   },
   {
     "id": "744",
-    "name": "イワンコ",
-    "englishName": "rockruff"
+    "japaneseName": "イワンコ",
+    "name": "rockruff"
   },
   {
     "id": "745",
-    "name": "ルガルガン(まひる)",
-    "englishName": "lycanroc"
+    "japaneseName": "ルガルガン(まひる)",
+    "name": "lycanroc"
   },
   {
     "id": "745",
-    "name": "ルガルガン(まよなか)",
-    "englishName": "lycanroc"
+    "japaneseName": "ルガルガン(まよなか)",
+    "name": "lycanroc"
   },
   {
     "id": "745",
-    "name": "ルガルガン(たそがれ)",
-    "englishName": "lycanroc"
+    "japaneseName": "ルガルガン(たそがれ)",
+    "name": "lycanroc"
   },
   {
     "id": "747",
-    "name": "ヒドイデ",
-    "englishName": "mareanie"
+    "japaneseName": "ヒドイデ",
+    "name": "mareanie"
   },
   {
     "id": "748",
-    "name": "ドヒドイデ",
-    "englishName": "toxapex"
+    "japaneseName": "ドヒドイデ",
+    "name": "toxapex"
   },
   {
     "id": "749",
-    "name": "ドロバンコ",
-    "englishName": "mudbray"
+    "japaneseName": "ドロバンコ",
+    "name": "mudbray"
   },
   {
     "id": "750",
-    "name": "バンバドロ",
-    "englishName": "mudsdale"
+    "japaneseName": "バンバドロ",
+    "name": "mudsdale"
   },
   {
     "id": "753",
-    "name": "カリキリ",
-    "englishName": "fomantis"
+    "japaneseName": "カリキリ",
+    "name": "fomantis"
   },
   {
     "id": "754",
-    "name": "ラランテス",
-    "englishName": "lurantis"
+    "japaneseName": "ラランテス",
+    "name": "lurantis"
   },
   {
     "id": "757",
-    "name": "ヤトウモリ",
-    "englishName": "salandit"
+    "japaneseName": "ヤトウモリ",
+    "name": "salandit"
   },
   {
     "id": "758",
-    "name": "エンニュート",
-    "englishName": "salazzle"
+    "japaneseName": "エンニュート",
+    "name": "salazzle"
   },
   {
     "id": "761",
-    "name": "アマカジ",
-    "englishName": "bounsweet"
+    "japaneseName": "アマカジ",
+    "name": "bounsweet"
   },
   {
     "id": "762",
-    "name": "アママイコ",
-    "englishName": "steenee"
+    "japaneseName": "アママイコ",
+    "name": "steenee"
   },
   {
     "id": "763",
-    "name": "アマージョ",
-    "englishName": "tsareena"
+    "japaneseName": "アマージョ",
+    "name": "tsareena"
   },
   {
     "id": "765",
-    "name": "ヤレユータン",
-    "englishName": "oranguru"
+    "japaneseName": "ヤレユータン",
+    "name": "oranguru"
   },
   {
     "id": "766",
-    "name": "ナゲツケサル",
-    "englishName": "passimian"
+    "japaneseName": "ナゲツケサル",
+    "name": "passimian"
   },
   {
     "id": "769",
-    "name": "スナバァ",
-    "englishName": "sandygast"
+    "japaneseName": "スナバァ",
+    "name": "sandygast"
   },
   {
     "id": "770",
-    "name": "シロデスナ",
-    "englishName": "palossand"
+    "japaneseName": "シロデスナ",
+    "name": "palossand"
   },
   {
     "id": "775",
-    "name": "ネッコアラ",
-    "englishName": "komala"
+    "japaneseName": "ネッコアラ",
+    "name": "komala"
   },
   {
     "id": "778",
-    "name": "ミミッキュ",
-    "englishName": "mimikyu"
+    "japaneseName": "ミミッキュ",
+    "name": "mimikyu"
   },
   {
     "id": "779",
-    "name": "ハギギシリ",
-    "englishName": "bruxish"
+    "japaneseName": "ハギギシリ",
+    "name": "bruxish"
   },
   {
     "id": "782",
-    "name": "ジャラコ",
-    "englishName": "jangmo-o"
+    "japaneseName": "ジャラコ",
+    "name": "jangmo-o"
   },
   {
     "id": "783",
-    "name": "ジャランゴ",
-    "englishName": "hakamo-o"
+    "japaneseName": "ジャランゴ",
+    "name": "hakamo-o"
   },
   {
     "id": "784",
-    "name": "ジャラランガ",
-    "englishName": "kommo-o"
+    "japaneseName": "ジャラランガ",
+    "name": "kommo-o"
   },
   {
     "id": "801",
-    "name": "マギアナ",
-    "englishName": "magearna"
+    "japaneseName": "マギアナ",
+    "name": "magearna"
   },
   {
     "id": "810",
-    "name": "サルノリ",
-    "englishName": "grookey"
+    "japaneseName": "サルノリ",
+    "name": "grookey"
   },
   {
     "id": "811",
-    "name": "バチンキー",
-    "englishName": "thwackey"
+    "japaneseName": "バチンキー",
+    "name": "thwackey"
   },
   {
     "id": "812",
-    "name": "ゴリランダー",
-    "englishName": "rillaboom"
+    "japaneseName": "ゴリランダー",
+    "name": "rillaboom"
   },
   {
     "id": "813",
-    "name": "ヒバニー",
-    "englishName": "scorbunny"
+    "japaneseName": "ヒバニー",
+    "name": "scorbunny"
   },
   {
     "id": "814",
-    "name": "ラビフット",
-    "englishName": "raboot"
+    "japaneseName": "ラビフット",
+    "name": "raboot"
   },
   {
     "id": "815",
-    "name": "エースバーン",
-    "englishName": "cinderace"
+    "japaneseName": "エースバーン",
+    "name": "cinderace"
   },
   {
     "id": "816",
-    "name": "メッソン",
-    "englishName": "sobble"
+    "japaneseName": "メッソン",
+    "name": "sobble"
   },
   {
     "id": "817",
-    "name": "ジメレオン",
-    "englishName": "drizzile"
+    "japaneseName": "ジメレオン",
+    "name": "drizzile"
   },
   {
     "id": "818",
-    "name": "インテレオン",
-    "englishName": "inteleon"
+    "japaneseName": "インテレオン",
+    "name": "inteleon"
   },
   {
     "id": "819",
-    "name": "ホシガリス",
-    "englishName": "skwovet"
+    "japaneseName": "ホシガリス",
+    "name": "skwovet"
   },
   {
     "id": "820",
-    "name": "ヨクバリス",
-    "englishName": "greedent"
+    "japaneseName": "ヨクバリス",
+    "name": "greedent"
   },
   {
     "id": "821",
-    "name": "ココガラ",
-    "englishName": "rookidee"
+    "japaneseName": "ココガラ",
+    "name": "rookidee"
   },
   {
     "id": "822",
-    "name": "アオガラス",
-    "englishName": "corvisquire"
+    "japaneseName": "アオガラス",
+    "name": "corvisquire"
   },
   {
     "id": "823",
-    "name": "アーマーガア",
-    "englishName": "corviknight"
+    "japaneseName": "アーマーガア",
+    "name": "corviknight"
   },
   {
     "id": "833",
-    "name": "カムカメ",
-    "englishName": "chewtle"
+    "japaneseName": "カムカメ",
+    "name": "chewtle"
   },
   {
     "id": "834",
-    "name": "カジリガメ",
-    "englishName": "drednaw"
+    "japaneseName": "カジリガメ",
+    "name": "drednaw"
   },
   {
     "id": "837",
-    "name": "タンドン",
-    "englishName": "rolycoly"
+    "japaneseName": "タンドン",
+    "name": "rolycoly"
   },
   {
     "id": "838",
-    "name": "トロッゴン",
-    "englishName": "carkol"
+    "japaneseName": "トロッゴン",
+    "name": "carkol"
   },
   {
     "id": "839",
-    "name": "セキタンザン",
-    "englishName": "coalossal"
+    "japaneseName": "セキタンザン",
+    "name": "coalossal"
   },
   {
     "id": "840",
-    "name": "カジッチュ",
-    "englishName": "applin"
+    "japaneseName": "カジッチュ",
+    "name": "applin"
   },
   {
     "id": "841",
-    "name": "アップリュー",
-    "englishName": "flapple"
+    "japaneseName": "アップリュー",
+    "name": "flapple"
   },
   {
     "id": "842",
-    "name": "タルップル",
-    "englishName": "appletun"
+    "japaneseName": "タルップル",
+    "name": "appletun"
   },
   {
     "id": "843",
-    "name": "スナヘビ",
-    "englishName": "silicobra"
+    "japaneseName": "スナヘビ",
+    "name": "silicobra"
   },
   {
     "id": "844",
-    "name": "サダイジャ",
-    "englishName": "sandaconda"
+    "japaneseName": "サダイジャ",
+    "name": "sandaconda"
   },
   {
     "id": "845",
-    "name": "ウッウ",
-    "englishName": "cramorant"
+    "japaneseName": "ウッウ",
+    "name": "cramorant"
   },
   {
     "id": "846",
-    "name": "サシカマス",
-    "englishName": "arrokuda"
+    "japaneseName": "サシカマス",
+    "name": "arrokuda"
   },
   {
     "id": "847",
-    "name": "カマスジョー",
-    "englishName": "barraskewda"
+    "japaneseName": "カマスジョー",
+    "name": "barraskewda"
   },
   {
     "id": "848",
-    "name": "エレズン",
-    "englishName": "toxel"
+    "japaneseName": "エレズン",
+    "name": "toxel"
   },
   {
     "id": "849",
-    "name": "ストリンダー(ハイ)",
-    "englishName": "toxtricity"
+    "japaneseName": "ストリンダー(ハイ)",
+    "name": "toxtricity"
   },
   {
     "id": "849",
-    "name": "ストリンダー(ロー)",
-    "englishName": "toxtricity"
+    "japaneseName": "ストリンダー(ロー)",
+    "name": "toxtricity"
   },
   {
     "id": "854",
-    "name": "ヤバチャ",
-    "englishName": "sinistea"
+    "japaneseName": "ヤバチャ",
+    "name": "sinistea"
   },
   {
     "id": "855",
-    "name": "ポットデス",
-    "englishName": "polteageist"
+    "japaneseName": "ポットデス",
+    "name": "polteageist"
   },
   {
     "id": "856",
-    "name": "ミブリム",
-    "englishName": "hatenna"
+    "japaneseName": "ミブリム",
+    "name": "hatenna"
   },
   {
     "id": "857",
-    "name": "テブリム",
-    "englishName": "hattrem"
+    "japaneseName": "テブリム",
+    "name": "hattrem"
   },
   {
     "id": "858",
-    "name": "ブリムオン",
-    "englishName": "hatterene"
+    "japaneseName": "ブリムオン",
+    "name": "hatterene"
   },
   {
     "id": "859",
-    "name": "ベロバー",
-    "englishName": "impidimp"
+    "japaneseName": "ベロバー",
+    "name": "impidimp"
   },
   {
     "id": "860",
-    "name": "ギモー",
-    "englishName": "morgrem"
+    "japaneseName": "ギモー",
+    "name": "morgrem"
   },
   {
     "id": "861",
-    "name": "オーロンゲ",
-    "englishName": "grimmsnarl"
+    "japaneseName": "オーロンゲ",
+    "name": "grimmsnarl"
   },
   {
     "id": "863",
-    "name": "ニャイキング",
-    "englishName": "perrserker"
+    "japaneseName": "ニャイキング",
+    "name": "perrserker"
   },
   {
     "id": "868",
-    "name": "マホミル",
-    "englishName": "milcery"
+    "japaneseName": "マホミル",
+    "name": "milcery"
   },
   {
     "id": "869",
-    "name": "マホイップ",
-    "englishName": "alcremie"
+    "japaneseName": "マホイップ",
+    "name": "alcremie"
   },
   {
     "id": "870",
-    "name": "タイレーツ",
-    "englishName": "falinks"
+    "japaneseName": "タイレーツ",
+    "name": "falinks"
   },
   {
     "id": "871",
-    "name": "バチンウニ",
-    "englishName": "pincurchin"
+    "japaneseName": "バチンウニ",
+    "name": "pincurchin"
   },
   {
     "id": "872",
-    "name": "ユキハミ",
-    "englishName": "snom"
+    "japaneseName": "ユキハミ",
+    "name": "snom"
   },
   {
     "id": "873",
-    "name": "モスノウ",
-    "englishName": "frosmoth"
+    "japaneseName": "モスノウ",
+    "name": "frosmoth"
   },
   {
     "id": "874",
-    "name": "イシヘンジン",
-    "englishName": "stonjourner"
+    "japaneseName": "イシヘンジン",
+    "name": "stonjourner"
   },
   {
     "id": "875",
-    "name": "コオリッポ(アイス)",
-    "englishName": "eiscue"
+    "japaneseName": "コオリッポ(アイス)",
+    "name": "eiscue"
   },
   {
     "id": "875",
-    "name": "コオリッポ(ナイス)",
-    "englishName": "eiscue"
+    "japaneseName": "コオリッポ(ナイス)",
+    "name": "eiscue"
   },
   {
     "id": "876",
-    "name": "イエッサン♂",
-    "englishName": "indeedee"
+    "japaneseName": "イエッサン♂",
+    "name": "indeedee"
   },
   {
     "id": "876",
-    "name": "イエッサン♀",
-    "englishName": "indeedee"
+    "japaneseName": "イエッサン♀",
+    "name": "indeedee"
   },
   {
     "id": "877",
-    "name": "モルペコ",
-    "englishName": "morpeko"
+    "japaneseName": "モルペコ",
+    "name": "morpeko"
   },
   {
     "id": "878",
-    "name": "ゾウドウ",
-    "englishName": "cufant"
+    "japaneseName": "ゾウドウ",
+    "name": "cufant"
   },
   {
     "id": "879",
-    "name": "ダイオウドウ",
-    "englishName": "copperajah"
+    "japaneseName": "ダイオウドウ",
+    "name": "copperajah"
   },
   {
     "id": "884",
-    "name": "ジュラルドン",
-    "englishName": "duraludon"
+    "japaneseName": "ジュラルドン",
+    "name": "duraludon"
   },
   {
     "id": "885",
-    "name": "ドラメシヤ",
-    "englishName": "dreepy"
+    "japaneseName": "ドラメシヤ",
+    "name": "dreepy"
   },
   {
     "id": "886",
-    "name": "ドロンチ",
-    "englishName": "drakloak"
+    "japaneseName": "ドロンチ",
+    "name": "drakloak"
   },
   {
     "id": "887",
-    "name": "ドラパルト",
-    "englishName": "dragapult"
+    "japaneseName": "ドラパルト",
+    "name": "dragapult"
   },
   {
     "id": "888",
-    "name": "ザシアン",
-    "englishName": "zacian"
+    "japaneseName": "ザシアン",
+    "name": "zacian"
   },
   {
     "id": "888",
-    "name": "ザシアン(王)",
-    "englishName": "zacian"
+    "japaneseName": "ザシアン(王)",
+    "name": "zacian"
   },
   {
     "id": "889",
-    "name": "ザマゼンタ",
-    "englishName": "zamazenta"
+    "japaneseName": "ザマゼンタ",
+    "name": "zamazenta"
   },
   {
     "id": "889",
-    "name": "ザマゼンタ(王)",
-    "englishName": "zamazenta"
+    "japaneseName": "ザマゼンタ(王)",
+    "name": "zamazenta"
   },
   {
     "id": "890",
-    "name": "ムゲンダイナ",
-    "englishName": "eternatus"
+    "japaneseName": "ムゲンダイナ",
+    "name": "eternatus"
   },
   {
     "id": "891",
-    "name": "ダクマ",
-    "englishName": "kubfu"
+    "japaneseName": "ダクマ",
+    "name": "kubfu"
   },
   {
     "id": "892",
-    "name": "ウーラオス(いちげき)",
-    "englishName": "urshifu"
+    "japaneseName": "ウーラオス(いちげき)",
+    "name": "urshifu"
   },
   {
     "id": "892",
-    "name": "ウーラオス(れんげき)",
-    "englishName": "urshifu"
+    "japaneseName": "ウーラオス(れんげき)",
+    "name": "urshifu"
   },
   {
     "id": "893",
-    "name": "ザルード",
-    "englishName": "zarude"
+    "japaneseName": "ザルード",
+    "name": "zarude"
   },
   {
     "id": "894",
-    "name": "レジエレキ",
-    "englishName": "regieleki"
+    "japaneseName": "レジエレキ",
+    "name": "regieleki"
   },
   {
     "id": "895",
-    "name": "レジドラゴ",
-    "englishName": "regidrago"
+    "japaneseName": "レジドラゴ",
+    "name": "regidrago"
   },
   {
     "id": "896",
-    "name": "ブリザポス",
-    "englishName": "glastrier"
+    "japaneseName": "ブリザポス",
+    "name": "glastrier"
   },
   {
     "id": "897",
-    "name": "レイスポス",
-    "englishName": "spectrier"
+    "japaneseName": "レイスポス",
+    "name": "spectrier"
   },
   {
     "id": "898",
-    "name": "バドレックス",
-    "englishName": "calyrex"
+    "japaneseName": "バドレックス",
+    "name": "calyrex"
   },
   {
     "id": "898",
-    "name": "バドレックス(はくば)",
-    "englishName": "calyrex"
+    "japaneseName": "バドレックス(はくば)",
+    "name": "calyrex"
   },
   {
     "id": "898",
-    "name": "バドレックス(こくば)",
-    "englishName": "calyrex"
+    "japaneseName": "バドレックス(こくば)",
+    "name": "calyrex"
   },
   {
     "id": "899",
-    "name": "アヤシシ",
-    "englishName": "wyrdeer"
+    "japaneseName": "アヤシシ",
+    "name": "wyrdeer"
   },
   {
     "id": "900",
-    "name": "バサギリ",
-    "englishName": "kleavor"
+    "japaneseName": "バサギリ",
+    "name": "kleavor"
   },
   {
     "id": "901",
-    "name": "ガチグマ",
-    "englishName": "ursaluna"
+    "japaneseName": "ガチグマ",
+    "name": "ursaluna"
   },
   {
     "id": "902",
-    "name": "イダイトウ♂",
-    "englishName": "basculegion"
+    "japaneseName": "イダイトウ♂",
+    "name": "basculegion"
   },
   {
     "id": "902",
-    "name": "イダイトウ♀",
-    "englishName": "basculegion"
+    "japaneseName": "イダイトウ♀",
+    "name": "basculegion"
   },
   {
     "id": "903",
-    "name": "オオニューラ",
-    "englishName": "sneasler"
+    "japaneseName": "オオニューラ",
+    "name": "sneasler"
   },
   {
     "id": "904",
-    "name": "ハリーマン",
-    "englishName": "overqwil"
+    "japaneseName": "ハリーマン",
+    "name": "overqwil"
   },
   {
     "id": "905",
-    "name": "ラブトロス(化身)",
-    "englishName": "enamorus"
+    "japaneseName": "ラブトロス(化身)",
+    "name": "enamorus"
   },
   {
     "id": "905",
-    "name": "ラブトロス(霊獣)",
-    "englishName": "enamorus"
+    "japaneseName": "ラブトロス(霊獣)",
+    "name": "enamorus"
   },
   {
     "id": "999",
-    "name": "コレクレー(とほ)",
-    "englishName": "gimmighoul"
+    "japaneseName": "コレクレー(とほ)",
+    "name": "gimmighoul"
   }
 ]

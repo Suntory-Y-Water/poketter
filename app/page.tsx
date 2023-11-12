@@ -7,10 +7,12 @@ export default function Home() {
   const pokemonIds = pokemonData.map((pokemon) => pokemon.id);
   return (
     <div>
-      <div className='flex'>
-        <p>内定しているポケモンのみを表示します。</p>
-        <p>ポケモンを選択するとポケモン徹底攻略様のページへ移動できます。</p>
-        <div className='flex'>
+      <div className='flex flex-col sm:flex-row sm:items-center text-base'>
+        <div className='w-full'>
+          <p>内定しているポケモンのみを表示します。</p>
+          <p>ポケモンを選択するとポケモン徹底攻略様のページへ移動できます。</p>
+        </div>
+        <div className='mt-4 sm:mt-0 w-full'>
           <RefreshButton ids={pokemonIds} />
         </div>
       </div>

@@ -1,4 +1,10 @@
-type PokemonListsType = {
+type PokemonIdProps = {
+  ids: string[];
+};
+
+type PokemonData = {
+  id: string;
+  japaneseName: string;
   name: string;
-  image: string;
+  image?: string;
 };
