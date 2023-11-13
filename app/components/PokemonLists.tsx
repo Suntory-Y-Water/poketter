@@ -14,7 +14,7 @@ export const PokemonLists = () => {
           <Link
             target='_blank'
             href={`https://yakkun.com/sv/zukan/n${pokemon.id}`}
-            key={pokemon.id}
+            key={pokemon.name}
             rel='noopener noreferrer'
           >
             <Card pokemon={pokemon} />
