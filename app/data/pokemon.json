@@ -1772,7 +1772,7 @@
     "japaneseName": "ネッコアラ"
   },
   {
-    "name": "mimikyu",
+    "name": "mimikyu-disguised",
     "japaneseName": "ミミッキュ"
   },
   {
@@ -1908,7 +1908,7 @@
     "japaneseName": "エレズン"
   },
   {
-    "name": "toxtricity",
+    "name": "toxtricity-amped",
     "japaneseName": "ストリンダー(ハイ)"
   },
   {
@@ -1968,7 +1968,7 @@
     "japaneseName": "イシヘンジン"
   },
   {
-    "name": "eiscue",
+    "name": "eiscue-ice",
     "japaneseName": "コオリッポ(アイス)"
   },
   {
@@ -1980,7 +1980,7 @@
     "japaneseName": "イエッサン♀"
   },
   {
-    "name": "morpeko",
+    "name": "morpeko-full-belly",
     "japaneseName": "モルペコ"
   },
   {
@@ -2416,51 +2416,51 @@
     "japaneseName": "ドドゲザン"
   },
   {
-    "name": "great tusk",
+    "name": "great-tusk",
     "japaneseName": "イダイナキバ"
   },
   {
-    "name": "scream tail",
+    "name": "scream-tail",
     "japaneseName": "サケブシッポ"
   },
   {
-    "name": "brute bonnet",
+    "name": "brute-bonnet",
     "japaneseName": "アラブルタケ"
   },
   {
-    "name": "flutter mane",
+    "name": "flutter-mane",
     "japaneseName": "ハバタクカミ"
   },
   {
-    "name": "slither wing",
+    "name": "slither-wing",
     "japaneseName": "チヲハウハネ"
   },
   {
-    "name": "sandy shocks",
+    "name": "sandy-shocks",
     "japaneseName": "スナノケガワ"
   },
   {
-    "name": "iron treads",
+    "name": "iron-treads",
     "japaneseName": "テツノワダチ"
   },
   {
-    "name": "iron bundle",
+    "name": "iron-bundle",
     "japaneseName": "テツノツツミ"
   },
   {
-    "name": "iron hands",
+    "name": "iron-hands",
     "japaneseName": "テツノカイナ"
   },
   {
-    "name": "iron jugulis",
+    "name": "iron-jugulis",
     "japaneseName": "テツノコウベ"
   },
   {
-    "name": "iron moth",
+    "name": "iron-moth",
     "japaneseName": "テツノドクガ"
   },
   {
-    "name": "iron thorns",
+    "name": "iron-thorns",
     "japaneseName": "テツノイバラ"
   },
   {
@@ -2500,11 +2500,11 @@
     "japaneseName": "イーユイ"
   },
   {
-    "name": "roaring moon",
+    "name": "roaring-moon",
     "japaneseName": "トドロクツキ"
   },
   {
-    "name": "iron valiant",
+    "name": "iron-valiant",
     "japaneseName": "テツノブジン"
   },
   {
@@ -2516,11 +2516,11 @@
     "japaneseName": "ミライドン"
   },
   {
-    "name": "walking wake",
+    "name": "walking-wake",
     "japaneseName": "ウネルミナモ"
   },
   {
-    "name": "iron leaves",
+    "name": "iron-leaves",
     "japaneseName": "テツノイサハ"
   },
   {
@@ -2548,7 +2548,7 @@
     "japaneseName": "キチキギス"
   },
   {
-    "name": "ogerpon-alola",
+    "name": "ogerpon",
     "japaneseName": "オーガポン"
   }
 ]
