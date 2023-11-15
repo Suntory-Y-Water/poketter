@@ -3,20 +3,20 @@ import React from 'react';
 import { useAtom } from 'jotai';
 import { pokemonListsAtom } from '../state/atoms';
 
-export const RefreshButton = ({ ids }: PokemonIdProps) => {
+export const RefreshButton = ({ names }: PokemonIdProps) => {
   const [pokemon, setPokemon] = useAtom(pokemonListsAtom);
 
   const handleClick = async () => {
-    // ids 配列からランダムに6つのIDを選択
-    const selectedIds = [];
-    for (let i = 0; i < 6; i++) {
-      selectedIds.push(ids[Math.floor(Math.random() * ids.length)]);
+    // ids 配列からランダムに6つのIDを選択（重複なし）
+    const selectedIds = new Set();
+    while (selectedIds.size < 6) {
+      const randomName = names[Math.floor(Math.random() * names.length)];
+      selectedIds.add(randomName);
     }
 
     // 選択されたIDをクエリパラメータとして連結
-    const queryParams = selectedIds.join(',');
-
-    const res = await fetch(`http://localhost:3000/api/pokemon?ids=${queryParams}`);
+    const queryParams = Array.from(selectedIds).join(',');
+    const res = await fetch(`api/pokemon?names=${queryParams}`);
     const pokemonData = await res.json();
     setPokemon(pokemonData);
   };

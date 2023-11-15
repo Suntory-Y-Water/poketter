@@ -1,5 +1,5 @@
 type PokemonIdProps = {
-  ids: string[];
+  names: string[];
 };
 
 type PokemonData = {
