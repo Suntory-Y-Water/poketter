@@ -16,7 +16,7 @@ export const RefreshButton = ({ names }: PokemonIdProps) => {
 
     // 選択されたIDをクエリパラメータとして連結
     const queryParams = Array.from(selectedIds).join(',');
-    const res = await fetch(`http://localhost:3000/api/pokemon?names=${queryParams}`);
+    const res = await fetch(`api/pokemon?names=${queryParams}`);
     const pokemonData = await res.json();
     setPokemon(pokemonData);
   };
