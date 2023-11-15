@@ -13,8 +13,8 @@ export const PokemonLists = () => {
         {pokemonLists.map((pokemon) => (
           <Link
             target='_blank'
-            href={`https://yakkun.com/sv/zukan/n${pokemon.id}`}
-            key={pokemon.id}
+            href={`https://zukan.pokemon.co.jp/detail/${pokemon.id}`}
+            key={pokemon.name}
             rel='noopener noreferrer'
           >
             <Card pokemon={pokemon} />
