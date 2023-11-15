@@ -10,7 +10,7 @@ export default function Home() {
       <div className='flex flex-col sm:flex-row sm:items-center text-base'>
         <div className='w-full leading-normal'>
           <p>スカーレットバイオレットに内定しているポケモンを6匹表示します</p>
-          <p>ポケモンを選択するとポケモン徹底攻略様のページへ移動できます</p>
+          <p>ポケモンを選択すると対象のポケモンずかんに移動できます</p>
         </div>
         <div className='mt-4 sm:mt-0 w-full'>
           <RefreshButton names={pokemonNames} />
