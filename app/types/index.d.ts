@@ -3,6 +3,7 @@ type PokemonIdProps = {
 };
 
 type PokemonData = {
+  uniqId: string;
   id: string;
   japaneseName: string;
   name: string;

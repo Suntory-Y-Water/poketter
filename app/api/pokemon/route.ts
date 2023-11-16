@@ -27,6 +27,7 @@ export async function GET(req: NextRequest, res: NextApiResponse) {
     const japaneseNameEntry = pokemonData.find((p) => p.name === data.name);
 
     return {
+      uniqId: crypto.randomUUID(),
       id: pokemonId,
       name: data.name,
       japaneseName: japaneseNameEntry ? japaneseNameEntry.japaneseName : data.name,
