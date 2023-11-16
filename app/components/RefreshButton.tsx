@@ -1,5 +1,5 @@
 'use client';
-import React from 'react';
+import React, { useState } from 'react';
 import { useAtom } from 'jotai';
 import { pokemonListsAtom } from '../state/atoms';
 
@@ -7,16 +7,29 @@ export const RefreshButton = ({ names }: PokemonIdProps) => {
   const [pokemon, setPokemon] = useAtom(pokemonListsAtom);
 
   const handleClick = async () => {
-    // ids 配列からランダムに6つのIDを選択（重複なし）
+    // 10%の確率でドオーだけ表示するAPIを叩く
+    if (Math.random() < 0.1) {
+      await executeAlternateAction();
+    } else {
+      await executeOriginalAction();
+    }
+  };
+
+  const executeOriginalAction = async () => {
     const selectedIds = new Set();
     while (selectedIds.size < 6) {
       const randomName = names[Math.floor(Math.random() * names.length)];
       selectedIds.add(randomName);
     }
 
-    // 選択されたIDをクエリパラメータとして連結
     const queryParams = Array.from(selectedIds).join(',');
     const res = await fetch(`api/pokemon?names=${queryParams}`);
+    const pokemonData = await res.json();
+    setPokemon(pokemonData);
+  };
+
+  const executeAlternateAction = async () => {
+    const res = await fetch(`api/clodsire`);
     const pokemonData = await res.json();
     setPokemon(pokemonData);
   };
