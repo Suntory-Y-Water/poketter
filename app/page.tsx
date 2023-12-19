@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div>
       <div className='flex flex-col sm:flex-row sm:items-center text-base'>
-        <div className='w-full leading-normal'>
+        <div className='w-full leading-normal space-y-1'>
           <p>スカーレットバイオレットに内定しているポケモンを6匹表示します</p>
           <p>ポケモンを選択すると対象のポケモンずかんに移動できます</p>
         </div>

@@ -5,14 +5,20 @@ import { pokemonListsAtom } from '../state/atoms';
 
 export const RefreshButton = ({ names }: PokemonIdProps) => {
   const [pokemon, setPokemon] = useAtom(pokemonListsAtom);
+  const [isLoading, setIsLoading] = useState(false);
 
   const handleClick = async () => {
+    // ローディング開始
+    setIsLoading(true);
+
     // 10%の確率でドオーだけ表示するAPIを叩く
     if (Math.random() < 0.1) {
       await executeAlternateAction();
     } else {
       await executeOriginalAction();
     }
+
+    setIsLoading(false); // ローディング終了
   };
 
   const executeOriginalAction = async () => {
@@ -36,8 +42,12 @@ export const RefreshButton = ({ names }: PokemonIdProps) => {
 
   return (
     <div
-      className='bg-custom-yellow hover:bg-yellow-300 text-custom-black py-4 px-16 font-bold rounded-md cursor-pointer text-center'
-      onClick={handleClick}
+      className={`py-4 px-16 font-bold rounded-md text-center ${
+        isLoading
+          ? 'bg-yellow-500 text-custom-black'
+          : 'bg-custom-yellow hover:bg-yellow-500 text-custom-black'
+      } ${isLoading ? 'cursor-not-allowed' : 'cursor-pointer'}`}
+      onClick={!isLoading ? handleClick : undefined}
     >
       ランダムにポケモンを選ぶ
     </div>
