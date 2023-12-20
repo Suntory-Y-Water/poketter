@@ -1,6 +1,9 @@
 import './globals.css';
+import { Noto_Sans_JP } from 'next/font/google';
 import type { Metadata } from 'next';
 import Header from './Header';
+
+const notoSansJp = Noto_Sans_JP({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'poketter',
@@ -10,7 +13,9 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang='ja'>
-      <body className='container mx-auto px-4 sm:px-28 bg-custom-gray text-custom-white'>
+      <body
+        className={`container ${notoSansJp}.className mx-auto px-4 sm:px-28 bg-custom-gray text-custom-white`}
+      >
         <div className='flex flex-col min-h-screen'>
           <Header />
           <main className='flex-grow'>{children}</main>
