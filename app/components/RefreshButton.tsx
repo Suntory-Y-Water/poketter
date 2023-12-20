@@ -8,20 +8,19 @@ export const RefreshButton = ({ names }: PokemonIdProps) => {
   const [isLoading, setIsLoading] = useState(false);
 
   const handleClick = async () => {
-    // ローディング開始
     setIsLoading(true);
 
     // 10%の確率でドオーだけ表示するAPIを叩く
     if (Math.random() < 0.1) {
-      await executeAlternateAction();
+      await getClodsire();
     } else {
-      await executeOriginalAction();
+      await getRandomPokemon();
     }
 
-    setIsLoading(false); // ローディング終了
+    setIsLoading(false);
   };
 
-  const executeOriginalAction = async () => {
+  const getRandomPokemon = async () => {
     const selectedIds = new Set();
     while (selectedIds.size < 6) {
       const randomName = names[Math.floor(Math.random() * names.length)];
@@ -34,7 +33,7 @@ export const RefreshButton = ({ names }: PokemonIdProps) => {
     setPokemon(pokemonData);
   };
 
-  const executeAlternateAction = async () => {
+  const getClodsire = async () => {
     const res = await fetch(`api/clodsire`);
     const pokemonData = await res.json();
     setPokemon(pokemonData);

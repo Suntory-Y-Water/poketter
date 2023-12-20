@@ -9,7 +9,8 @@
     "lint": "next lint",
     "docker:build": "docker build -t poketter-app .",
     "docker:start": "docker run -p 3000:3000 poketter-app",
-    "docker:rebuild": "npm run docker:build && npm run docker:start"
+    "compose": "docker-compose up -d",
+    "down": "docker-compose down"
   },
   "dependencies": {
     "jotai": "^2.5.1",
